@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 0.0,
+        "max": 1.0,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "type":"minecraft:item",
+          "weight":25,
+          "name": "minecraft:iron_ingot"
+        },
+        
+        {
+          "type":"minecraft:item",
+          "weight":5,
+          "name": "cisco_mod:champion_lootbag"
+        }
+      ]
+    }
+  ]
+}
+
+    
+  
+  
+  
