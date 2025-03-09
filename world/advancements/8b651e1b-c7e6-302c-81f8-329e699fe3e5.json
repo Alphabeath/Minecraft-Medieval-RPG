@@ -309,8 +309,8 @@
   },
   "enigmaticlegacy:book/soul_loss": {
     "criteria": {
-      "incompletable": "2025-03-09 01:03:41 -0300",
-      "is_cursed_one": "2025-03-09 01:01:32 -0300"
+      "incompletable": "2025-03-09 17:17:21 -0300",
+      "is_cursed_one": "2025-03-09 17:08:08 -0300"
     },
     "done": true
   },
@@ -368,9 +368,16 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2025-03-09 17:53:21 -0300"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-03-08 23:38:50 -0300",
+      "entered_druid_circle": "2025-03-09 17:09:00 -0300",
       "entered_large_dungeon": "2025-03-08 23:27:53 -0300",
       "entered_ruined_building": "2025-03-09 15:40:18 -0300"
     },
@@ -413,6 +420,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-03-09 16:51:17 -0300"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -433,6 +446,7 @@
   },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
+      "has_parent_recipe": "2025-03-09 16:51:17 -0300",
       "is_cursed_one": "2025-03-09 01:01:32 -0300"
     },
     "done": false
@@ -660,6 +674,8 @@
       "minecraft:skeleton": "2025-03-09 00:14:33 -0300",
       "minecraft:spider": "2025-03-09 00:03:38 -0300",
       "minecraft:creeper": "2025-03-09 00:57:40 -0300",
+      "minecraft:evoker": "2025-03-09 17:21:32 -0300",
+      "minecraft:husk": "2025-03-09 17:16:56 -0300",
       "minecraft:stray": "2025-03-09 01:43:48 -0300",
       "minecraft:vex": "2025-03-09 00:57:04 -0300",
       "minecraft:zombie": "2025-03-08 23:54:33 -0300"
@@ -849,6 +865,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-03-08 23:40:51 -0300"
+    },
+    "done": true
+  },
+  "majruszsaccessories:dream_catcher": {
+    "criteria": {
+      "picked_up_accessory": "2025-03-09 17:31:38 -0300"
     },
     "done": true
   },
@@ -1071,9 +1093,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-03-08 23:19:27 -0300"
+      "has_parent_recipe": "2025-03-08 23:19:27 -0300",
+      "has_items": "2025-03-09 16:51:17 -0300"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:root": {
     "criteria": {
@@ -1129,6 +1152,12 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-03-09 16:50:51 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-03-09 00:22:30 -0300"
@@ -1138,6 +1167,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-03-09 16:50:51 -0300"
     },
     "done": true
   },
@@ -1411,8 +1446,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-03-08 23:17:22 -0300",
+      "minecraft:birch_forest": "2025-03-09 17:52:48 -0300",
+      "minecraft:beach": "2025-03-09 16:44:13 -0300",
+      "minecraft:dark_forest": "2025-03-09 17:54:25 -0300",
       "minecraft:river": "2025-03-08 23:30:22 -0300",
       "minecraft:forest": "2025-03-08 23:08:32 -0300",
+      "minecraft:lush_caves": "2025-03-09 17:55:24 -0300",
       "minecraft:meadow": "2025-03-08 23:13:01 -0300",
       "minecraft:plains": "2025-03-08 23:16:20 -0300"
     },
@@ -1454,6 +1493,12 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2025-03-09 17:42:31 -0300"
+    },
+    "done": true
+  },
   "toms_storage:unlock_dia_pearl": {
     "criteria": {
       "inv_changed-ender_pearl": "2025-03-08 23:08:30 -0300",
@@ -1464,6 +1509,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "majruszsaccessories:tool_scraps": {
+    "criteria": {
+      "picked_up_accessory": "2025-03-09 16:49:58 -0300"
     },
     "done": true
   },
@@ -1658,6 +1709,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-03-08 23:52:02 -0300"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-03-09 16:41:24 -0300"
     },
     "done": true
   },
