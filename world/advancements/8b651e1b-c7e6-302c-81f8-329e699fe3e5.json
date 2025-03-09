@@ -640,6 +640,7 @@
       "minecraft:skeleton": "2025-03-09 00:14:33 -0300",
       "minecraft:spider": "2025-03-09 00:03:38 -0300",
       "minecraft:creeper": "2025-03-09 00:57:40 -0300",
+      "minecraft:stray": "2025-03-09 01:43:48 -0300",
       "minecraft:vex": "2025-03-09 00:57:04 -0300",
       "minecraft:zombie": "2025-03-08 23:54:33 -0300"
     },
@@ -1009,6 +1010,12 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-09 01:43:38 -0300"
     },
     "done": true
   },

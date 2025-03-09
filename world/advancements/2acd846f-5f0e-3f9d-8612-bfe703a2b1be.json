@@ -1330,12 +1330,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-03-09 01:15:26 -0300"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
