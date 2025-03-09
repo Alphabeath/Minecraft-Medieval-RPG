@@ -72,6 +72,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-03-09 00:48:39 -0300"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-03-08 23:12:30 -0300"
@@ -332,6 +338,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2025-03-09 00:57:16 -0300"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "requirement": "2025-03-09 00:14:26 -0300",
@@ -348,6 +360,18 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2025-03-09 00:48:39 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-03-09 00:51:05 -0300"
     },
     "done": true
   },
@@ -368,6 +392,18 @@
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
     },
     "done": true
+  },
+  "majruszsaccessories:booster_dropped": {
+    "criteria": {
+      "picked_up_booster": "2025-03-09 00:57:27 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-03-09 00:51:05 -0300"
+    },
+    "done": false
   },
   "takesapillage:root": {
     "criteria": {
@@ -560,7 +596,9 @@
     "criteria": {
       "minecraft:pillager": "2025-03-08 23:19:08 -0300",
       "minecraft:skeleton": "2025-03-09 00:04:08 -0300",
+      "minecraft:spider": "2025-03-09 00:49:08 -0300",
       "minecraft:zombified_piglin": "2025-03-08 23:19:00 -0300",
+      "minecraft:vex": "2025-03-09 00:56:39 -0300",
       "minecraft:zombie": "2025-03-09 00:03:30 -0300"
     },
     "done": false
@@ -628,6 +666,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2025-03-09 00:57:16 -0300"
     },
     "done": true
   },
@@ -835,6 +879,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "has_items": "2025-03-09 00:48:39 -0300"
+    },
+    "done": false
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-03-08 23:12:30 -0300"
@@ -915,9 +965,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-03-08 23:20:49 -0300"
+      "has_parent_recipe": "2025-03-08 23:20:49 -0300",
+      "has_items": "2025-03-09 00:51:05 -0300"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:root": {
     "criteria": {
@@ -979,6 +1030,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2025-03-09 00:55:58 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-03-08 23:21:25 -0300"
@@ -1018,6 +1075,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-03-09 00:51:13 -0300"
     },
     "done": true
   },
@@ -1255,11 +1318,23 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2025-03-09 00:48:39 -0300"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-03-09 01:15:26 -0300"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1429,6 +1504,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-03-09 00:19:25 -0300"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2025-03-09 00:51:13 -0300"
     },
     "done": true
   },
