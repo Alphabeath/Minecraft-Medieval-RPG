@@ -229,6 +229,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-10 18:10:22 -0300"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/materials/pure_heart": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -505,6 +511,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-03-10 18:07:37 -0300"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:19:27 -0300"
@@ -675,6 +687,7 @@
       "minecraft:spider": "2025-03-09 00:03:38 -0300",
       "minecraft:creeper": "2025-03-09 00:57:40 -0300",
       "minecraft:evoker": "2025-03-09 17:21:32 -0300",
+      "minecraft:phantom": "2025-03-10 18:07:37 -0300",
       "minecraft:witch": "2025-03-10 16:38:16 -0300",
       "minecraft:husk": "2025-03-09 17:16:56 -0300",
       "minecraft:stray": "2025-03-09 01:43:48 -0300",
@@ -692,6 +705,12 @@
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-03-08 23:49:40 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-03-10 18:10:22 -0300"
     },
     "done": true
   },
@@ -1398,7 +1417,8 @@
     "criteria": {
       "byg:allium_fields": "2025-03-08 23:31:19 -0300",
       "byg:prairie": "2025-03-08 23:31:13 -0300",
-      "byg:temperate_grove": "2025-03-08 23:31:32 -0300"
+      "byg:temperate_grove": "2025-03-08 23:31:32 -0300",
+      "byg:orchard": "2025-03-10 18:19:39 -0300"
     },
     "done": false
   },
@@ -1453,7 +1473,9 @@
       "minecraft:river": "2025-03-08 23:30:22 -0300",
       "minecraft:forest": "2025-03-08 23:08:32 -0300",
       "minecraft:lush_caves": "2025-03-09 17:55:24 -0300",
+      "minecraft:frozen_peaks": "2025-03-10 18:07:51 -0300",
       "minecraft:old_growth_birch_forest": "2025-03-10 16:33:38 -0300",
+      "minecraft:deep_dark": "2025-03-10 18:10:22 -0300",
       "minecraft:meadow": "2025-03-08 23:13:01 -0300",
       "minecraft:plains": "2025-03-08 23:16:20 -0300"
     },
