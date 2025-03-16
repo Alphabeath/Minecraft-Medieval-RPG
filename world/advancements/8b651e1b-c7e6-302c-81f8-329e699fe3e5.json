@@ -180,6 +180,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-03-16 01:31:22 -0300"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-03-08 23:08:31 -0300"
@@ -228,6 +234,12 @@
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-15 12:00:36 -0300"
+    },
+    "done": false
   },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
@@ -332,6 +344,12 @@
     },
     "done": true
   },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-03-16 02:11:27 -0300"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -395,6 +413,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-03-08 23:38:50 -0300",
+      "entered_fishing_ship": "2025-03-16 01:00:02 -0300",
       "entered_druid_circle": "2025-03-09 17:09:00 -0300",
       "entered_large_dungeon": "2025-03-08 23:27:53 -0300",
       "entered_ruined_building": "2025-03-09 15:40:18 -0300"
@@ -559,6 +578,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-03-16 00:47:07 -0300"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/novelty_hat": {
     "criteria": {
       "sopa_de_macaco": "2025-03-11 23:06:12 -0300"
@@ -580,6 +605,12 @@
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-16 02:06:37 -0300"
     },
     "done": true
   },
@@ -708,6 +739,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-09 15:38:37 -0300",
       "minecraft:skeleton": "2025-03-09 00:14:33 -0300",
+      "minecraft:vindicator": "2025-03-16 01:02:14 -0300",
       "minecraft:spider": "2025-03-09 00:03:38 -0300",
       "minecraft:creeper": "2025-03-09 00:57:40 -0300",
       "minecraft:evoker": "2025-03-09 17:21:32 -0300",
@@ -797,6 +829,12 @@
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "barrel": "2025-03-16 01:31:03 -0300"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/materials/ancient_debris": {
     "criteria": {
@@ -891,6 +929,12 @@
   "undead_unleashed:nerves_of_steel": {
     "criteria": {
       "nerves_of_steel": "2025-03-09 15:39:14 -0300"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-15 12:00:36 -0300"
     },
     "done": true
   },
@@ -1135,6 +1179,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-03-16 02:07:05 -0300"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -1159,9 +1209,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-03-14 23:17:06 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-03-08 23:16:34 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-03-15 16:26:48 -0300"
     },
     "done": true
   },
@@ -1214,6 +1276,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-03-15 11:06:49 -0300"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -1244,6 +1312,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2025-03-16 00:53:05 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-03-09 00:22:30 -0300"
@@ -1265,6 +1339,12 @@
   "vinery:mangrove_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-03-16 00:41:49 -0300"
     },
     "done": true
   },
@@ -1388,6 +1468,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-03-15 23:02:00 -0300"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/false_justice": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -1443,6 +1529,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-03-15 16:55:45 -0300"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-03-08 23:08:31 -0300"
@@ -1452,6 +1544,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-03-08 23:54:33 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-14 23:21:55 -0300"
     },
     "done": true
   },
@@ -1490,9 +1588,22 @@
       "byg:allium_fields": "2025-03-08 23:31:19 -0300",
       "byg:prairie": "2025-03-08 23:31:13 -0300",
       "byg:coconino_meadow": "2025-03-11 23:03:51 -0300",
+      "byg:rainbow_beach": "2025-03-15 11:48:39 -0300",
       "byg:temperate_grove": "2025-03-08 23:31:32 -0300",
+      "byg:autumnal_taiga": "2025-03-14 22:39:12 -0300",
       "byg:orchard": "2025-03-10 18:19:39 -0300",
-      "byg:maple_taiga": "2025-03-11 23:02:38 -0300"
+      "byg:firecracker_shrubland": "2025-03-15 11:53:50 -0300",
+      "byg:zelkova_forest": "2025-03-14 22:43:33 -0300",
+      "byg:araucaria_savanna": "2025-03-15 12:00:20 -0300",
+      "byg:dacite_ridges": "2025-03-14 22:39:32 -0300",
+      "byg:aspen_forest": "2025-03-15 16:07:47 -0300",
+      "byg:cherry_blossom_forest": "2025-03-15 23:26:52 -0300",
+      "byg:baobab_savanna": "2025-03-15 22:57:06 -0300",
+      "byg:amaranth_fields": "2025-03-15 12:00:35 -0300",
+      "byg:lush_stacks": "2025-03-15 22:58:33 -0300",
+      "byg:maple_taiga": "2025-03-11 23:02:38 -0300",
+      "byg:dacite_shore": "2025-03-15 11:55:52 -0300",
+      "byg:windswept_desert": "2025-03-15 11:59:46 -0300"
     },
     "done": false
   },
@@ -1538,21 +1649,46 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 02:33:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-03-14 22:42:07 -0300",
       "minecraft:taiga": "2025-03-11 22:43:55 -0300",
+      "atmospheric:rainforest_basin": "2025-03-15 11:56:13 -0300",
+      "minecraft:deep_ocean": "2025-03-15 23:05:54 -0300",
+      "minecraft:frozen_river": "2025-03-14 22:35:09 -0300",
       "minecraft:sunflower_plains": "2025-03-08 23:17:22 -0300",
       "minecraft:birch_forest": "2025-03-09 17:52:48 -0300",
       "minecraft:beach": "2025-03-09 16:44:13 -0300",
       "minecraft:dark_forest": "2025-03-09 17:54:25 -0300",
       "minecraft:river": "2025-03-08 23:30:22 -0300",
+      "minecraft:lukewarm_ocean": "2025-03-15 11:55:15 -0300",
+      "minecraft:snowy_plains": "2025-03-14 22:35:47 -0300",
+      "minecraft:stony_shore": "2025-03-14 23:07:06 -0300",
+      "minecraft:snowy_taiga": "2025-03-14 22:35:05 -0300",
       "minecraft:grove": "2025-03-11 22:38:56 -0300",
+      "minecraft:cold_ocean": "2025-03-14 22:42:23 -0300",
+      "atmospheric:aspen_parkland": "2025-03-14 22:39:20 -0300",
       "minecraft:forest": "2025-03-08 23:08:32 -0300",
       "minecraft:lush_caves": "2025-03-09 17:55:24 -0300",
+      "minecraft:deep_cold_ocean": "2025-03-15 11:06:41 -0300",
+      "minecraft:frozen_ocean": "2025-03-15 16:15:11 -0300",
+      "minecraft:ocean": "2025-03-15 00:01:33 -0300",
+      "minecraft:jungle": "2025-03-15 12:02:10 -0300",
+      "minecraft:old_growth_spruce_taiga": "2025-03-14 22:38:25 -0300",
+      "minecraft:warm_ocean": "2025-03-15 11:59:21 -0300",
+      "atmospheric:scrubland": "2025-03-15 11:59:36 -0300",
       "minecraft:frozen_peaks": "2025-03-10 18:07:51 -0300",
       "minecraft:old_growth_birch_forest": "2025-03-10 16:33:38 -0300",
+      "atmospheric:laurel_forest": "2025-03-15 16:10:35 -0300",
       "minecraft:deep_dark": "2025-03-10 18:10:22 -0300",
       "minecraft:meadow": "2025-03-08 23:13:01 -0300",
+      "minecraft:savanna": "2025-03-15 16:04:09 -0300",
       "minecraft:plains": "2025-03-08 23:16:20 -0300"
     },
     "done": false
@@ -1581,11 +1717,29 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/insignia": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-16 02:33:20 -0300"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-03-08 23:08:32 -0300"
     },
     "done": false
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_oak": "2025-03-15 12:02:42 -0300"
+    },
+    "done": false
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-03-15 16:21:33 -0300"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -1603,6 +1757,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-03-08 23:08:30 -0300",
       "inv_changed-diamond": "2025-03-08 23:08:30 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-03-16 01:29:22 -0300"
     },
     "done": true
   },
@@ -1917,6 +2077,12 @@
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-03-08 23:54:33 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "barrel": "2025-03-16 01:31:03 -0300"
     },
     "done": true
   },

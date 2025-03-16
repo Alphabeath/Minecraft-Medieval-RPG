@@ -204,6 +204,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-03-15 00:23:04 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-03-09 00:53:20 -0300"
@@ -391,6 +397,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_fishing_ship": "2025-03-16 01:35:40 -0300",
       "entered_druid_circle": "2025-03-09 17:08:52 -0300",
       "entered_large_dungeon": "2025-03-09 17:39:45 -0300"
     },
@@ -564,6 +571,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2025-03-16 02:10:05 -0300"
+    },
+    "done": true
+  },
   "vinery:jungle_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -688,7 +701,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-09 17:02:57 -0300",
+      "minecraft:vindicator": "2025-03-16 01:06:39 -0300",
       "minecraft:spider": "2025-03-12 01:09:55 -0300",
+      "minecraft:enderman": "2025-03-16 01:58:28 -0300",
       "minecraft:vex": "2025-03-09 01:18:16 -0300",
       "minecraft:zombie": "2025-03-09 17:02:26 -0300",
       "minecraft:drowned": "2025-03-12 00:46:32 -0300"
@@ -704,6 +719,12 @@
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-03-09 00:59:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-15 00:23:04 -0300"
     },
     "done": true
   },
@@ -767,9 +788,17 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 02:10:05 -0300"
+    },
+    "done": true
+  },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "smithingtable": "2025-03-11 23:04:16 -0300"
+      "grindstone": "2025-03-16 01:37:44 -0300",
+      "smithingtable": "2025-03-11 23:04:16 -0300",
+      "blastfurnace": "2025-03-14 22:46:40 -0300"
     },
     "done": false
   },
@@ -778,6 +807,12 @@
       "has_scrap": "2025-03-12 00:24:06 -0300"
     },
     "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "librarian": "2025-03-15 00:23:04 -0300"
+    },
+    "done": false
   },
   "toms_storage:unlock_chest": {
     "criteria": {
@@ -1043,6 +1078,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_chestplate": {
+    "criteria": {
+      "soul_heart": "2025-03-16 01:29:38 -0300"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-09 00:53:20 -0300"
@@ -1070,6 +1111,18 @@
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-03-11 23:09:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-03-15 23:30:10 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-03-15 00:11:45 -0300"
     },
     "done": true
   },
@@ -1409,7 +1462,14 @@
     "criteria": {
       "byg:allium_fields": "2025-03-09 16:54:46 -0300",
       "byg:prairie": "2025-03-09 16:58:33 -0300",
-      "byg:orchard": "2025-03-11 22:43:19 -0300"
+      "byg:coconino_meadow": "2025-03-14 22:34:18 -0300",
+      "byg:orchard": "2025-03-11 22:43:19 -0300",
+      "byg:araucaria_savanna": "2025-03-15 23:30:29 -0300",
+      "byg:howling_peaks": "2025-03-15 00:12:00 -0300",
+      "byg:basalt_barrera": "2025-03-15 00:03:19 -0300",
+      "byg:lush_stacks": "2025-03-16 01:03:52 -0300",
+      "byg:maple_taiga": "2025-03-14 22:30:39 -0300",
+      "byg:dacite_shore": "2025-03-15 23:29:52 -0300"
     },
     "done": false
   },
@@ -1437,6 +1497,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2025-03-14 23:48:50 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/insignia": {
     "criteria": {
       "has_the_recipe": "2025-03-11 23:17:45 -0300"
@@ -1448,8 +1514,12 @@
       "minecraft:taiga": "2025-03-11 22:49:52 -0300",
       "minecraft:sunflower_plains": "2025-03-09 00:59:40 -0300",
       "minecraft:birch_forest": "2025-03-09 17:54:49 -0300",
+      "minecraft:beach": "2025-03-14 23:58:41 -0300",
       "minecraft:dark_forest": "2025-03-09 17:54:34 -0300",
       "minecraft:river": "2025-03-09 01:02:49 -0300",
+      "minecraft:lukewarm_ocean": "2025-03-15 23:38:10 -0300",
+      "minecraft:stony_shore": "2025-03-14 23:20:43 -0300",
+      "minecraft:cold_ocean": "2025-03-14 23:46:47 -0300",
       "minecraft:forest": "2025-03-09 00:53:21 -0300",
       "minecraft:meadow": "2025-03-09 01:40:14 -0300",
       "minecraft:plains": "2025-03-09 01:40:26 -0300"
@@ -1498,6 +1568,18 @@
     },
     "done": false
   },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-03-16 00:04:22 -0300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2025-03-14 23:30:42 -0300"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -1520,6 +1602,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "majruszsaccessories:tool_scraps": {
+    "criteria": {
+      "picked_up_accessory": "2025-03-15 00:53:07 -0300"
     },
     "done": true
   },
@@ -1551,6 +1639,12 @@
     "criteria": {
       "has_recipe": "2025-03-09 00:53:20 -0300",
       "has_compass": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-03-14 23:48:50 -0300"
     },
     "done": true
   },
@@ -1711,6 +1805,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-03-14 23:07:18 -0300"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -1722,6 +1822,12 @@
       "loot_stat": "2025-03-11 23:07:31 -0300"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "has_parent_recipe": "2025-03-16 02:10:05 -0300"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/relics/golem_heart": {
     "criteria": {
