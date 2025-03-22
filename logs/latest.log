@@ -1,31 +1,32 @@
-[17Mar2025 00:07:05.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Stealer of Souls]
-[17Mar2025 00:10:17.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Bringer of Storms]
-[17Mar2025 00:20:30.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[17Mar2025 00:20:30.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[17Mar2025 00:20:30.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[17Mar2025 00:20:30.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Server closed
-[17Mar2025 00:20:30.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game
-[17Mar2025 00:20:30.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[17Mar2025 00:20:30.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17Mar2025 00:20:32.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
-[17Mar2025 00:20:32.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[17Mar2025 00:20:32.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17Mar2025 00:20:32.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17Mar2025 00:20:32.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[17Mar2025 00:20:32.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[17Mar2025 00:20:32.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
-[17Mar2025 00:20:32.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17Mar2025 00:20:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
-[17Mar2025 00:20:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[17Mar2025 00:20:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17Mar2025 00:20:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17Mar2025 00:20:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[17Mar2025 00:20:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[17Mar2025 00:20:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
-[17Mar2025 00:20:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17Mar2025 00:20:33.004] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
-[17Mar2025 00:20:33.012] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@5ca7da9d
-[17Mar2025 00:20:33.015] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/upgradednetherite_items-server.toml from tracker!
+[22Mar2025 00:07:41.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported Alphabeath to -3348.500000, 67.500000, -3136.500000]
+[22Mar2025 00:23:45.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[22Mar2025 00:23:45.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[22Mar2025 00:23:48.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Disconnected
+[22Mar2025 00:23:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game
+[22Mar2025 00:23:54.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Mar2025 00:23:54.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Mar2025 00:23:54.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Mar2025 00:23:54.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Mar2025 00:23:54.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Mar2025 00:23:54.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[22Mar2025 00:23:54.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Mar2025 00:23:54.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[22Mar2025 00:23:54.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[22Mar2025 00:23:54.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[22Mar2025 00:23:54.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Mar2025 00:23:54.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[22Mar2025 00:23:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Mar2025 00:23:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[22Mar2025 00:23:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Mar2025 00:23:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[22Mar2025 00:23:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[22Mar2025 00:23:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[22Mar2025 00:23:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Mar2025 00:23:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22Mar2025 00:23:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Mar2025 00:23:55.242] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[22Mar2025 00:23:55.263] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@5d7f8798
+[22Mar2025 00:23:55.269] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/apoli-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -38,7 +39,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.017] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/apoli-server.toml from tracker!
+[22Mar2025 00:23:55.275] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/oriacs-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -51,7 +52,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.019] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/oriacs-server.toml from tracker!
+[22Mar2025 00:23:55.276] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/upgradednetherite_items-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -64,7 +65,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.021] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/solapplepie-server.toml from tracker!
+[22Mar2025 00:23:55.278] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/solapplepie-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -77,7 +78,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.022] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/corpse-server.toml from tracker!
+[22Mar2025 00:23:55.279] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/corpse-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -90,7 +91,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.025] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/upgradednetherite-server.toml from tracker!
+[22Mar2025 00:23:55.285] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/upgradednetherite-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -103,7 +104,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.026] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/curios-server.toml from tracker!
+[22Mar2025 00:23:55.287] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/curios-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -116,7 +117,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.027] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/constructionwand-server.toml from tracker!
+[22Mar2025 00:23:55.289] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/constructionwand-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -129,7 +130,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.028] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/toms_storage-server.toml from tracker!
+[22Mar2025 00:23:55.290] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/toms_storage-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -142,7 +143,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.029] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/dynamictrees-server.toml from tracker!
+[22Mar2025 00:23:55.291] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/dynamictrees-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -155,7 +156,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.030] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/jei-server.toml from tracker!
+[22Mar2025 00:23:55.292] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/jei-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -168,7 +169,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.031] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/pehkui-server.toml from tracker!
+[22Mar2025 00:23:55.296] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/pehkui-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -181,7 +182,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.032] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/forge-server.toml from tracker!
+[22Mar2025 00:23:55.297] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/forge-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -194,7 +195,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.032] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/structurize-server.toml from tracker!
+[22Mar2025 00:23:55.298] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/structurize-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -207,7 +208,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.033] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/upgradednetherite_ultimate-server.toml from tracker!
+[22Mar2025 00:23:55.299] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/upgradednetherite_ultimate-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -220,7 +221,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.036] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/whisperwoods-server.toml from tracker!
+[22Mar2025 00:23:55.300] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/xptome-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -233,7 +234,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.037] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/xptome-server.toml from tracker!
+[22Mar2025 00:23:55.302] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/whisperwoods-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -246,7 +247,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.039] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/sophisticatedbackpacks-server.toml from tracker!
+[22Mar2025 00:23:55.304] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/sophisticatedbackpacks-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -259,7 +260,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.040] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/getittogetherdrops-server.toml from tracker!
+[22Mar2025 00:23:55.305] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/getittogetherdrops-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -272,7 +273,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.041] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/aether-server.toml from tracker!
+[22Mar2025 00:23:55.306] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/aether-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -285,7 +286,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.069] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/easy_villagers-server.toml from tracker!
+[22Mar2025 00:23:55.346] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/easy_villagers-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -298,7 +299,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.077] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/minecolonies-server.toml from tracker!
+[22Mar2025 00:23:55.357] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/minecolonies-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]
@@ -311,7 +312,7 @@ java.lang.NullPointerException: Cannot read field "watchedFileCount" because "wa
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23661!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17Mar2025 00:20:33.079] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/irons_spellbooks-server.toml from tracker!
+[22Mar2025 00:23:55.359] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/irons_spellbooks-server.toml from tracker!
 java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
 	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
 	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23566!/:4.0.7]

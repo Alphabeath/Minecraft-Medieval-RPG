@@ -198,6 +198,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-03-20 23:32:29 -0300"
+    },
+    "done": true
+  },
   "simplyswords:sword_on_a_stick": {
     "criteria": {
       "requirement": "2025-03-11 23:23:04 -0300"
@@ -258,6 +264,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-03-21 00:11:36 -0300"
+    },
+    "done": false
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -297,6 +309,12 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-03-09 01:11:59 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2025-03-21 00:11:36 -0300"
     },
     "done": true
   },
@@ -601,6 +619,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/escape_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-03-21 00:11:36 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2025-03-09 01:01:55 -0300"
@@ -679,6 +703,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2025-03-21 00:11:36 -0300"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-03-09 00:59:17 -0300"
@@ -694,6 +724,12 @@
   "dungeons_enhanced:thats_a_dungeon": {
     "criteria": {
       "entered_large_dungeon": "2025-03-09 17:39:45 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:hearthflame": {
+    "criteria": {
+      "requirement": "2025-03-20 23:50:21 -0300"
     },
     "done": true
   },
@@ -1086,13 +1122,20 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-03-21 00:11:36 -0300",
       "has_items": "2025-03-09 17:09:28 -0300"
     },
-    "done": false
+    "done": true
   },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2025-03-21 00:11:36 -0300"
     },
     "done": true
   },
@@ -1134,9 +1177,10 @@
   },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-03-21 00:11:36 -0300",
       "has_items": "2025-03-16 22:24:32 -0300"
     },
-    "done": false
+    "done": true
   },
   "dungeons_enhanced:root": {
     "criteria": {
@@ -1536,6 +1580,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-21 00:36:28 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/astral_potato": {
     "criteria": {
       "has_items": "2025-03-16 22:22:17 -0300"
@@ -1655,6 +1705,18 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:vex": "2025-03-09 01:18:16 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-03-21 00:11:36 -0300"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2025-03-21 00:11:36 -0300"
     },
     "done": true
   },
@@ -1801,6 +1863,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-03-21 01:00:04 -0300"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -1916,6 +1984,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-03-21 00:11:36 -0300"
+    },
+    "done": false
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-03-09 00:53:20 -0300",
@@ -1959,6 +2033,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/berserk_charm": {
+    "criteria": {
+      "has_parent_recipe": "2025-03-21 00:11:36 -0300"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/misc/sanguinary_handbook": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -1974,6 +2054,12 @@
   "incendium:technical/on_kill": {
     "criteria": {
       "log_spam_fixer": "2025-03-09 00:53:21 -0300"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-03-21 00:11:36 -0300"
     },
     "done": false
   },
@@ -2095,6 +2181,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:frostfall": {
+    "criteria": {
+      "requirement": "2025-03-20 23:28:41 -0300"
     },
     "done": true
   },
