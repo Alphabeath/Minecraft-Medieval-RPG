@@ -1,4 +1,10 @@
 {
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-03-24 00:51:16 -0300"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -162,6 +168,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-23 22:39:25 -0300"
+    },
+    "done": true
+  },
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -204,6 +216,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-03-23 23:38:46 -0300"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -237,6 +255,12 @@
   "enigmaticlegacy:book/materials/netherite": {
     "criteria": {
       "has_scrap": "2025-03-09 00:57:16 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-03-24 01:25:52 -0300"
     },
     "done": true
   },
@@ -448,6 +472,7 @@
       "minecraft:phantom": "2025-03-15 23:39:24 -0300",
       "minecraft:zombified_piglin": "2025-03-08 23:19:00 -0300",
       "minecraft:witch": "2025-03-14 23:43:20 -0300",
+      "minecraft:wither_skeleton": "2025-03-23 23:20:04 -0300",
       "minecraft:husk": "2025-03-09 21:41:55 -0300",
       "minecraft:stray": "2025-03-09 21:41:22 -0300",
       "minecraft:enderman": "2025-03-12 00:11:22 -0300",
@@ -467,6 +492,12 @@
   "enigmaticlegacy:book/brewing/molten_heart_potion": {
     "criteria": {
       "has_items": "2025-03-08 23:48:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-23 23:38:46 -0300"
     },
     "done": true
   },
@@ -598,6 +629,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-03-23 23:38:46 -0300"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/relics/lost_engine": {
     "criteria": {
       "has_items": "2025-03-11 22:22:10 -0300"
@@ -613,6 +650,24 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/hellshelf": {
+    "criteria": {
+      "hellshelf": "2025-03-23 23:25:57 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "has_recall_potion": "2025-03-24 00:32:25 -0300"
+    },
+    "done": false
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-24 01:25:52 -0300"
     },
     "done": true
   },
@@ -675,6 +730,12 @@
       "log_spam_fixer": "2025-03-08 23:12:31 -0300"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/rocky_chestplate": {
+    "criteria": {
+      "soul_heart": "2025-03-23 23:47:57 -0300"
+    },
+    "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -947,6 +1008,7 @@
       "minecraft:ocean": "2025-03-16 02:05:57 -0300",
       "minecraft:frozen_peaks": "2025-03-16 19:20:42 -0300",
       "minecraft:old_growth_birch_forest": "2025-03-16 19:15:53 -0300",
+      "minecraft:deep_dark": "2025-03-23 22:39:25 -0300",
       "minecraft:meadow": "2025-03-08 23:14:31 -0300",
       "minecraft:savanna": "2025-03-16 01:44:48 -0300",
       "minecraft:plains": "2025-03-08 23:16:20 -0300"
@@ -1121,6 +1183,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-03-24 00:45:57 -0300"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -1211,6 +1279,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-03-23 23:38:46 -0300"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-03-08 23:38:34 -0300"
@@ -1292,6 +1366,12 @@
   "enigmaticaddons:book/tools/ichor_spear": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/recall_potion": {
+    "criteria": {
+      "spellstone": "2025-03-24 00:32:25 -0300"
     },
     "done": true
   },
@@ -1607,6 +1687,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-03-23 23:35:16 -0300"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-03-16 00:11:19 -0300"
@@ -1628,6 +1714,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-03-12 00:14:50 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-03-23 22:39:25 -0300"
     },
     "done": true
   },
@@ -1724,6 +1816,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-03-08 23:21:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-25 23:18:35 -0300"
     },
     "done": true
   },
@@ -1874,6 +1972,12 @@
     },
     "done": true
   },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2025-03-23 22:49:33 -0300"
+    },
+    "done": true
+  },
   "apotheosis:spawner/root": {
     "criteria": {
       "spawner": "2025-03-20 23:52:58 -0300"
@@ -1932,6 +2036,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-03-08 23:16:27 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:stormbringer": {
+    "criteria": {
+      "requirement": "2025-03-24 00:16:54 -0300"
     },
     "done": true
   },
@@ -2186,6 +2296,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-23 23:38:46 -0300"
+    },
+    "done": true
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-03-08 23:12:30 -0300"
@@ -2281,6 +2397,12 @@
   "majruszsaccessories:lucky_rock": {
     "criteria": {
       "picked_up_accessory": "2025-03-15 22:28:27 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-24 01:25:52 -0300"
     },
     "done": true
   },
