@@ -1,532 +1,61 @@
-[25Mar2025 21:36:48.287] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 236
-[25Mar2025 21:36:48.326] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 237
-[25Mar2025 21:36:48.368] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 238
-[25Mar2025 21:36:48.419] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 239
-[25Mar2025 21:36:48.466] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 240
-[25Mar2025 21:36:48.519] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 241
-[25Mar2025 21:36:48.568] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 242
-[25Mar2025 21:36:48.617] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 243
-[25Mar2025 21:36:48.668] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 244
-[25Mar2025 21:36:48.719] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 245
-[25Mar2025 21:36:48.767] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 246
-[25Mar2025 21:36:48.819] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 247
-[25Mar2025 21:36:50.343] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 248
-[25Mar2025 21:36:50.397] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 249
-[25Mar2025 21:36:50.398] [Netty Epoll Server IO #21/INFO] [Calio/]: Received acknowledgment for login packet with id 250
-[25Mar2025 21:36:50.574] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7a7f8118
-[25Mar2025 21:36:50.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: narum0000[/127.68.183.159:46535] logged in with entity id 4860 at (-3271.80738841728, 71.0, -3261.647004958861)
-[25Mar2025 21:36:50.748] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to narum0000
-[25Mar2025 21:36:50.749] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to narum0000
-[25Mar2025 21:36:50.750] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to narum0000
-[25Mar2025 21:36:50.751] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to narum0000
-[25Mar2025 21:36:50.755] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to narum0000
-[25Mar2025 21:36:50.759] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to narum0000
-[25Mar2025 21:36:50.760] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to narum0000
-[25Mar2025 21:36:50.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 joined the game
-[25Mar2025 21:36:51.100] [Server thread/INFO] [Jade/]: Syncing config to narum0000 (0e5562b2-bac2-35be-8be2-74ad739b658a)
-[25Mar2025 21:36:51.259] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to narum0000...
-[25Mar2025 21:36:51.260] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
-[25Mar2025 21:36:51.261] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[25Mar2025 21:36:51.262] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to narum0000
-[25Mar2025 21:37:31.619] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
-[25Mar2025 21:37:39.667] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/5168, l='ServerLevel[world]', x=-3312.50, y=49.00, z=-3363.50]
-[25Mar2025 21:37:46.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
-[25Mar2025 21:37:46.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <narum0000> melo estas?
-[25Mar2025 21:38:00.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
-[25Mar2025 21:38:00.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
-[25Mar2025 22:46:54.352] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 236
-[25Mar2025 22:46:54.386] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 237
-[25Mar2025 22:46:54.430] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 238
-[25Mar2025 22:46:54.480] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 239
-[25Mar2025 22:46:54.532] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 240
-[25Mar2025 22:46:54.582] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 241
-[25Mar2025 22:46:54.633] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 242
-[25Mar2025 22:46:54.686] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 243
-[25Mar2025 22:46:54.731] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 244
-[25Mar2025 22:46:54.783] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 245
-[25Mar2025 22:46:54.836] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 246
-[25Mar2025 22:46:54.886] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 247
-[25Mar2025 22:46:56.545] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 248
-[25Mar2025 22:46:56.601] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 249
-[25Mar2025 22:46:56.602] [Netty Epoll Server IO #18/INFO] [Calio/]: Received acknowledgment for login packet with id 250
-[25Mar2025 22:46:56.687] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9e65a9d
-[25Mar2025 22:46:56.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: narum0000[/127.68.183.159:42277] logged in with entity id 5182 at (-3271.80738841728, 71.0, -3261.647004958861)
-[25Mar2025 22:46:56.767] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to narum0000
-[25Mar2025 22:46:56.768] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to narum0000
-[25Mar2025 22:46:56.768] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to narum0000
-[25Mar2025 22:46:56.768] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to narum0000
-[25Mar2025 22:46:56.770] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to narum0000
-[25Mar2025 22:46:56.771] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to narum0000
-[25Mar2025 22:46:56.771] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to narum0000
-[25Mar2025 22:46:56.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 joined the game
-[25Mar2025 22:46:56.910] [Server thread/INFO] [Jade/]: Syncing config to narum0000 (0e5562b2-bac2-35be-8be2-74ad739b658a)
-[25Mar2025 22:46:56.959] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to narum0000...
-[25Mar2025 22:46:56.959] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
-[25Mar2025 22:46:56.959] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[25Mar2025 22:46:56.960] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to narum0000
-[25Mar2025 22:49:52.300] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 236
-[25Mar2025 22:49:52.337] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 237
-[25Mar2025 22:49:52.391] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 238
-[25Mar2025 22:49:52.437] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 239
-[25Mar2025 22:49:52.488] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 240
-[25Mar2025 22:49:52.553] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 241
-[25Mar2025 22:49:52.586] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 242
-[25Mar2025 22:49:52.638] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 243
-[25Mar2025 22:49:52.687] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 244
-[25Mar2025 22:49:52.743] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 245
-[25Mar2025 22:49:52.793] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 246
-[25Mar2025 22:49:52.838] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 247
-[25Mar2025 22:49:53.860] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 248
-[25Mar2025 22:49:53.905] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 249
-[25Mar2025 22:49:53.905] [Netty Epoll Server IO #20/INFO] [Calio/]: Received acknowledgment for login packet with id 250
-[25Mar2025 22:49:53.974] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b17530
-[25Mar2025 22:49:53.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.54.101.230:38507] logged in with entity id 5543 at (-3275.429378989098, 71.5625, -3258.7669568959855)
-[25Mar2025 22:49:54.021] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to hvice
-[25Mar2025 22:49:54.021] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to hvice
-[25Mar2025 22:49:54.021] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to hvice
-[25Mar2025 22:49:54.022] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to hvice
-[25Mar2025 22:49:54.023] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to hvice
-[25Mar2025 22:49:54.024] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to hvice
-[25Mar2025 22:49:54.025] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to hvice
-[25Mar2025 22:49:54.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
-[25Mar2025 22:49:54.129] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
-[25Mar2025 22:49:54.177] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to hvice...
-[25Mar2025 22:49:54.177] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
-[25Mar2025 22:49:54.177] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[25Mar2025 22:49:54.178] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to hvice
-[25Mar2025 22:52:00.888] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
-[25Mar2025 22:52:00.893] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
-[25Mar2025 22:52:00.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Skeleton
-[25Mar2025 22:52:05.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -3219.500000, 70.500000, -3284.500000]
-[25Mar2025 22:56:56.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
-[25Mar2025 22:56:56.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
-[25Mar2025 23:05:49.373] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 236
-[25Mar2025 23:05:49.421] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 237
-[25Mar2025 23:05:49.473] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 238
-[25Mar2025 23:05:49.522] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 239
-[25Mar2025 23:05:49.568] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 240
-[25Mar2025 23:05:49.618] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 241
-[25Mar2025 23:05:49.670] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 242
-[25Mar2025 23:05:49.718] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 243
-[25Mar2025 23:05:49.768] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 244
-[25Mar2025 23:05:49.818] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 245
-[25Mar2025 23:05:49.871] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 246
-[25Mar2025 23:05:49.918] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 247
-[25Mar2025 23:05:50.051] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 248
-[25Mar2025 23:05:50.106] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 249
-[25Mar2025 23:05:50.107] [Netty Epoll Server IO #23/INFO] [Calio/]: Received acknowledgment for login packet with id 250
-[25Mar2025 23:05:50.210] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@32099ada
-[25Mar2025 23:05:50.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.54.101.230:55367] logged in with entity id 7657 at (-3277.388125045233, 71.0, -3260.948279942747)
-[25Mar2025 23:05:50.251] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to hvice
-[25Mar2025 23:05:50.251] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to hvice
-[25Mar2025 23:05:50.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to hvice
-[25Mar2025 23:05:50.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to hvice
-[25Mar2025 23:05:50.254] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to hvice
-[25Mar2025 23:05:50.255] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to hvice
-[25Mar2025 23:05:50.256] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to hvice
-[25Mar2025 23:05:50.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
-[25Mar2025 23:05:50.413] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
-[25Mar2025 23:05:50.460] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to hvice...
-[25Mar2025 23:05:50.461] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
-[25Mar2025 23:05:50.461] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[25Mar2025 23:05:50.461] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to hvice
-[25Mar2025 23:08:23.979] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
-[25Mar2025 23:08:23.980] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
-[25Mar2025 23:09:45.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lady Issac
-[25Mar2025 23:09:52.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -3254.500000, 72.500000, -3288.500000]
-[25Mar2025 23:10:06.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
-[25Mar2025 23:10:55.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -3357.500000, 62.500000, -3133.500000]
-[25Mar2025 23:11:16.990] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
-[25Mar2025 23:11:16.993] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
-[25Mar2025 23:11:19.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
-[25Mar2025 23:11:19.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
-[25Mar2025 23:11:39.544] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
-[25Mar2025 23:11:39.595] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
-[25Mar2025 23:11:39.642] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
-[25Mar2025 23:11:39.693] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
-[25Mar2025 23:11:39.743] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
-[25Mar2025 23:11:39.788] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
-[25Mar2025 23:11:39.840] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
-[25Mar2025 23:11:39.889] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
-[25Mar2025 23:11:39.940] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
-[25Mar2025 23:11:39.991] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
-[25Mar2025 23:11:40.041] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
-[25Mar2025 23:11:40.090] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
-[25Mar2025 23:11:40.267] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
-[25Mar2025 23:11:40.268] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
-[25Mar2025 23:11:40.317] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 250
-[25Mar2025 23:11:40.429] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@296ae7fd
-[25Mar2025 23:11:40.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.54.101.230:41073] logged in with entity id 8435 at (-3358.300000011921, 48.0, -3130.5284030734765)
-[25Mar2025 23:11:40.469] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to hvice
-[25Mar2025 23:11:40.470] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to hvice
-[25Mar2025 23:11:40.470] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to hvice
-[25Mar2025 23:11:40.470] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to hvice
-[25Mar2025 23:11:40.473] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to hvice
-[25Mar2025 23:11:40.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to hvice
-[25Mar2025 23:11:40.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to hvice
-[25Mar2025 23:11:40.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
-[25Mar2025 23:11:40.580] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
-[25Mar2025 23:11:40.625] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to hvice...
-[25Mar2025 23:11:40.625] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
-[25Mar2025 23:11:40.625] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[25Mar2025 23:11:40.626] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to hvice
-[25Mar2025 23:13:09.352] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
-[25Mar2025 23:13:29.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to narum0000]
-[25Mar2025 23:15:49.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lady Issac
-[25Mar2025 23:15:53.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -3262.500000, 72.500000, -3263.500000]
-[25Mar2025 23:16:04.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TorturedSoul['Lady Issac'/7825, l='ServerLevel[world]', x=-3270.55, y=72.80, z=-3268.30] died: Lady Issac was slain by hvice
-[25Mar2025 23:18:09.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -3358.500000, 62.500000, -3128.500000]
-[25Mar2025 23:18:35.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Getting an Upgrade]
-[25Mar2025 23:19:55.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [How long's this been here?]
-[25Mar2025 23:23:12.104] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
-[25Mar2025 23:24:03.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
-[25Mar2025 23:24:05.461] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
-[25Mar2025 23:24:11.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombie
-[25Mar2025 23:24:22.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -3364.500000, 47.500000, -3125.500000]
-[25Mar2025 23:24:25.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombie
-[25Mar2025 23:24:45.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -3364.500000, 47.500000, -3125.500000]
-[25Mar2025 23:27:32.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was killed by magic
-[25Mar2025 23:28:38.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by Zombie using magic
-[25Mar2025 23:28:46.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -3358.500000, 55.500000, -3114.500000]
-[25Mar2025 23:29:10.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice withered away whilst fighting Zombie
-[25Mar2025 23:29:14.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -3358.500000, 54.500000, -3116.500000]
-[25Mar2025 23:33:57.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -3272.500000, 76.500000, -3260.500000]
-[25Mar2025 23:41:46.838] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/12311, l='ServerLevel[world]', x=-3311.50, y=50.00, z=-3359.50]
-[25Mar2025 23:48:18.854] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
-java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2361!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2361!/:?]
-	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
-	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2362!/:?]
-	... 4 more
-[25Mar2025 23:48:19.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[25Mar2025 23:48:19.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[25Mar2025 23:48:19.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
-[25Mar2025 23:48:19.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
-[25Mar2025 23:48:19.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[25Mar2025 23:48:19.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[25Mar2025 23:48:22.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[25Mar2025 23:48:22.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
-[25Mar2025 23:48:22.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
-[25Mar2025 23:48:22.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[25Mar2025 23:48:22.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[25Mar2025 23:48:22.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[25Mar2025 23:48:22.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[25Mar2025 23:48:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[25Mar2025 23:48:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[25Mar2025 23:48:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
-[25Mar2025 23:48:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
-[25Mar2025 23:48:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[25Mar2025 23:48:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[25Mar2025 23:48:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[25Mar2025 23:48:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[25Mar2025 23:48:23.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[25Mar2025 23:48:23.221] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
-[25Mar2025 23:48:23.228] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@4d406c66
-[25Mar2025 23:48:23.230] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/apoli-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.232] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/oriacs-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.233] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/upgradednetherite_items-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.235] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/solapplepie-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.235] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/corpse-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.238] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/upgradednetherite-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.239] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/curios-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.240] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/toms_storage-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.240] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/constructionwand-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.241] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/dynamictrees-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.242] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/jei-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.243] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/pehkui-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.244] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/forge-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.244] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/structurize-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.245] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/upgradednetherite_ultimate-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.245] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/xptome-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.247] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/whisperwoods-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.248] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/sophisticatedbackpacks-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.249] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/getittogetherdrops-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.250] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/aether-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.270] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/easy_villagers-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.276] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/minecolonies-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[25Mar2025 23:48:23.278] [Server thread/ERROR] [fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler/]: Failed to remove config /home/bryan/Minecraft-Medieval-RPG/config/irons_spellbooks-server.toml from tracker!
-java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
-	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
-	at fuzs.nightconfigfixes.config.CheckedConfigFileTypeHandler.unload(CheckedConfigFileTypeHandler.java:137) ~[NightConfigFixes-v4.0.7-1.19.2-Forge.jar%23567!/:4.0.7]
-	at net.minecraftforge.fml.config.ConfigTracker.closeConfig(ConfigTracker.java:70) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.fml.config.ConfigTracker.lambda$unloadConfigs$2(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2351) ~[?:?]
-	at net.minecraftforge.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:55) ~[fmlcore-1.19.2-43.3.5.jar%23664!/:?]
-	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:137) ~[forge-1.19.2-43.3.5-universal.jar%23668!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23663!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[27Mar2025 00:01:34.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Alphabeath
+[27Mar2025 00:01:42.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to Alphabeath]
+[27Mar2025 00:07:17.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by Stray using magic
+[27Mar2025 00:07:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -2741.500000, 17.500000, -3367.500000]
+[27Mar2025 00:08:39.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MutantEnderman['Kenneth the Ninja'/9329, l='ServerLevel[world]', x=-2779.60, y=17.00, z=-3324.60] died: Kenneth the Ninja was shot by Alphabeath
+[27Mar2025 00:19:38.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported Alphabeath to narum0000]
+[27Mar2025 00:19:51.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to Alphabeath]
+[27Mar2025 00:20:42.771] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[27Mar2025 00:21:53.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was shot by Alphabeath
+[27Mar2025 00:22:02.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported narum0000 to Alphabeath]
+[27Mar2025 00:22:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was shot by Stray
+[27Mar2025 00:22:12.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported narum0000 to Alphabeath]
+[27Mar2025 00:22:32.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Stray
+[27Mar2025 00:22:38.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -2749.500000, 8.500000, -3366.500000]
+[27Mar2025 00:24:55.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath has completed the challenge [Hope Fades]
+[27Mar2025 00:30:53.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by hvice
+[27Mar2025 00:30:59.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported narum0000 to hvice]
+[27Mar2025 00:35:58.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice withered away whilst fighting Zombie
+[27Mar2025 00:36:02.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -2812.500000, -0.500000, -3369.500000]
+[27Mar2025 00:36:29.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice withered away whilst fighting Wither Skeleton
+[27Mar2025 00:36:32.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -2810.500000, -0.500000, -3374.500000]
+[27Mar2025 00:39:51.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Minotaur['Overseer Shane'/15097, l='ServerLevel[world]', x=-2794.89, y=-0.13, z=-3328.50] died: Overseer Shane was slain by hvice
+[27Mar2025 00:40:21.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[27Mar2025 00:40:21.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[27Mar2025 00:40:38.300] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[27Mar2025 00:40:38.346] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[27Mar2025 00:40:38.398] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[27Mar2025 00:40:38.448] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[27Mar2025 00:40:38.501] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[27Mar2025 00:40:38.558] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[27Mar2025 00:40:38.603] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[27Mar2025 00:40:38.649] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[27Mar2025 00:40:38.700] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[27Mar2025 00:40:38.743] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[27Mar2025 00:40:38.797] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[27Mar2025 00:40:38.846] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[27Mar2025 00:40:39.013] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[27Mar2025 00:40:39.013] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[27Mar2025 00:40:39.055] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[27Mar2025 00:40:39.157] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@561db0f2
+[27Mar2025 00:40:39.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.54.101.230:35687] logged in with entity id 15287 at (-2794.106249988079, -0.5, -3334.300000011921)
+[27Mar2025 00:40:39.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to hvice
+[27Mar2025 00:40:39.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to hvice
+[27Mar2025 00:40:39.241] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to hvice
+[27Mar2025 00:40:39.241] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to hvice
+[27Mar2025 00:40:39.250] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to hvice
+[27Mar2025 00:40:39.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to hvice
+[27Mar2025 00:40:39.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to hvice
+[27Mar2025 00:40:39.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[27Mar2025 00:40:39.511] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[27Mar2025 00:40:39.625] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to hvice...
+[27Mar2025 00:40:39.625] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[27Mar2025 00:40:39.625] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Mar2025 00:40:39.626] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to hvice
+[27Mar2025 00:51:06.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [hvice: Teleported hvice to -3272.500000, 76.500000, -3260.500000]
+[27Mar2025 00:51:28.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[27Mar2025 00:51:28.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[27Mar2025 00:51:49.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[27Mar2025 00:51:49.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[27Mar2025 00:51:57.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Disconnected
+[27Mar2025 00:51:57.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game

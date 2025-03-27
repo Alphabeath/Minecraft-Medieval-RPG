@@ -252,6 +252,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-03-26 23:22:45 -0300"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_fishing_ship": "2025-03-16 01:35:40 -0300",
@@ -615,6 +621,12 @@
       "has_recall_potion": "2025-03-16 22:30:29 -0300"
     },
     "done": false
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-26 23:22:45 -0300"
+    },
+    "done": true
   },
   "dungeons_enhanced:root": {
     "criteria": {
@@ -1217,6 +1229,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2025-03-27 00:42:08 -0300"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -1280,6 +1298,12 @@
   "comforts:sleeping_bag_lime": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-03-26 23:05:55 -0300"
     },
     "done": true
   },
@@ -2187,12 +2211,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-03-25 23:40:40 -0300"
-    },
-    "done": false
-  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-03-09 00:53:20 -0300"
@@ -2270,6 +2288,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-26 23:22:45 -0300"
     },
     "done": true
   },

@@ -474,6 +474,7 @@
       "minecraft:witch": "2025-03-14 23:43:20 -0300",
       "minecraft:wither_skeleton": "2025-03-23 23:20:04 -0300",
       "minecraft:husk": "2025-03-09 21:41:55 -0300",
+      "minecraft:cave_spider": "2025-03-27 00:05:12 -0300",
       "minecraft:stray": "2025-03-09 21:41:22 -0300",
       "minecraft:enderman": "2025-03-12 00:11:22 -0300",
       "minecraft:silverfish": "2025-03-16 20:20:36 -0300",
@@ -1411,6 +1412,12 @@
     },
     "done": true
   },
+  "simplyswords:livyatan": {
+    "criteria": {
+      "requirement": "2025-03-26 23:13:16 -0300"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_cobweb": "2025-03-08 23:12:30 -0300"
@@ -2146,6 +2153,12 @@
   "enigmaticlegacy:book/relics/eye_of_nebula": {
     "criteria": {
       "has_items": "2025-03-16 21:01:25 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-26 23:39:34 -0300"
     },
     "done": true
   },

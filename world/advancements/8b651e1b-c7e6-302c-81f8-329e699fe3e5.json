@@ -216,6 +216,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/void_pearl": {
+    "criteria": {
+      "has_items": "2025-03-27 00:24:55 -0300"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -543,6 +549,7 @@
     "criteria": {
       "spellstone2": "2025-03-09 00:54:20 -0300",
       "spellstone1": "2025-03-16 13:48:51 -0300",
+      "spellstone6": "2025-03-27 00:24:55 -0300",
       "spellstone5": "2025-03-16 19:32:27 -0300"
     },
     "done": false
@@ -1593,6 +1600,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/relics/ichor_bottle": {
+    "criteria": {
+      "has_items": "2025-03-26 23:41:22 -0300"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "requirement": "2025-03-09 00:17:48 -0300",
@@ -1742,6 +1755,12 @@
   "vinery:white_grape_crate": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/void_pearl": {
+    "criteria": {
+      "spellstone": "2025-03-27 00:24:55 -0300"
     },
     "done": true
   },
@@ -2233,7 +2252,8 @@
     "criteria": {
       "has_item_1": "2025-03-16 13:48:51 -0300",
       "has_item_2": "2025-03-09 00:54:20 -0300",
-      "has_item_5": "2025-03-16 19:32:27 -0300"
+      "has_item_5": "2025-03-16 19:32:27 -0300",
+      "has_item_6": "2025-03-27 00:24:55 -0300"
     },
     "done": false
   },
