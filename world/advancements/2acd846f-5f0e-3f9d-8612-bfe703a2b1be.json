@@ -264,6 +264,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-03-27 21:30:15 -0300"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_hay_storage": "2025-03-16 01:59:55 -0300",
@@ -450,6 +456,12 @@
   "vinery:cherry_door": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:dormant_relic": {
+    "criteria": {
+      "requirement": "2025-03-27 21:27:52 -0300"
     },
     "done": true
   },
@@ -1397,6 +1409,12 @@
   "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
     "criteria": {
       "has_white_wool": "2025-03-08 23:21:01 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-03-27 21:56:39 -0300"
     },
     "done": true
   },
