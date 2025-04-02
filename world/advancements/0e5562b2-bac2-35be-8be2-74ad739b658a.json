@@ -258,6 +258,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-02 01:09:44 -0300"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_fishing_ship": "2025-03-16 01:35:40 -0300",
@@ -410,6 +416,12 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2025-04-01 23:47:47 -0300"
+    },
+    "done": true
+  },
   "dungeons_enhanced:thats_a_dungeon": {
     "criteria": {
       "entered_large_dungeon": "2025-03-09 17:39:45 -0300"
@@ -431,6 +443,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-09 01:18:16 -0300"
+    },
+    "done": true
+  },
+  "majruszsaccessories:swimmer_guide": {
+    "criteria": {
+      "picked_up_accessory": "2025-04-01 23:55:41 -0300"
     },
     "done": true
   },
@@ -966,8 +984,11 @@
       "minecraft:stony_shore": "2025-03-14 23:20:43 -0300",
       "minecraft:grove": "2025-03-16 18:35:52 -0300",
       "minecraft:cold_ocean": "2025-03-14 23:46:47 -0300",
+      "atmospheric:aspen_parkland": "2025-04-02 00:08:17 -0300",
       "minecraft:forest": "2025-03-09 00:53:21 -0300",
       "minecraft:lush_caves": "2025-03-16 19:16:33 -0300",
+      "minecraft:ocean": "2025-04-02 00:04:37 -0300",
+      "minecraft:deep_lukewarm_ocean": "2025-04-01 23:45:42 -0300",
       "minecraft:frozen_peaks": "2025-03-16 18:35:50 -0300",
       "minecraft:old_growth_birch_forest": "2025-03-16 18:36:02 -0300",
       "minecraft:deep_dark": "2025-03-23 23:14:13 -0300",
@@ -1554,6 +1575,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-04-02 00:54:23 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/brewing/haste_potion": {
     "criteria": {
       "has_items": "2025-03-16 22:07:12 -0300"
@@ -1851,6 +1878,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-04-01 23:14:53 -0300"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
       "has_parent_recipe": "2025-03-21 00:11:36 -0300",
@@ -2125,6 +2158,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-04-02 00:08:17 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/xp_scroll": {
     "criteria": {
       "has_the_recipe": "2025-03-21 00:11:36 -0300"
@@ -2211,6 +2250,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-04-02 01:06:27 -0300"
+    },
+    "done": false
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-03-09 00:53:20 -0300"
@@ -2226,6 +2271,12 @@
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-03-16 00:04:22 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/unholy_grail": {
+    "criteria": {
+      "spellstone": "2025-04-01 23:58:54 -0300"
     },
     "done": true
   },

@@ -66,6 +66,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-04-01 23:22:39 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/etherium_ore": {
     "criteria": {
       "generic_revelation": "2025-03-12 01:12:40 -0300"
@@ -135,6 +141,12 @@
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-03-31 18:51:12 -0300"
     },
     "done": true
   },
@@ -273,6 +285,12 @@
   "enigmaticlegacy:book/materials/netherite": {
     "criteria": {
       "has_scrap": "2025-03-09 17:53:21 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-01 22:19:35 -0300"
     },
     "done": true
   },
@@ -427,6 +445,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2025-04-02 00:01:41 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-03-16 02:06:37 -0300"
@@ -436,6 +460,12 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2025-04-01 23:47:20 -0300"
     },
     "done": true
   },
@@ -473,6 +503,12 @@
   "vinery:cherry_door": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:dormant_relic": {
+    "criteria": {
+      "requirement": "2025-04-01 22:40:46 -0300"
     },
     "done": true
   },
@@ -557,6 +593,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-03-16 22:15:54 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2025-04-02 00:01:41 -0300"
     },
     "done": true
   },
@@ -891,6 +933,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-02 00:16:01 -0300"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -1003,6 +1051,12 @@
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-03-08 23:08:30 -0300"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-04-02 00:01:41 -0300"
     },
     "done": true
   },
@@ -1125,6 +1179,12 @@
       "is_cursed_one": "2025-03-09 01:01:32 -0300"
     },
     "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-01 23:15:15 -0300"
+    },
+    "done": true
   },
   "apotheosis:enchanting/enchanter": {
     "criteria": {
@@ -1290,6 +1350,7 @@
   },
   "enigmaticlegacy:recipes/generic/curse_transposer": {
     "criteria": {
+      "has_parent_recipe": "2025-04-02 00:01:41 -0300",
       "is_cursed_one": "2025-03-09 01:01:32 -0300"
     },
     "done": false
@@ -1556,6 +1617,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-04-01 23:35:48 -0300",
       "apple": "2025-03-28 16:42:45 -0300",
       "bread": "2025-03-08 23:17:29 -0300",
       "golden_apple": "2025-03-12 00:25:28 -0300",
@@ -1662,6 +1724,12 @@
       "phantom": "2025-03-10 18:07:37 -0300"
     },
     "done": false
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-04-02 00:47:17 -0300"
+    },
+    "done": true
   },
   "vinery:loam_stairs": {
     "criteria": {
@@ -1781,6 +1849,12 @@
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
       "ancient_city": "2025-03-10 18:10:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-31 18:51:12 -0300"
     },
     "done": true
   },
@@ -1957,6 +2031,13 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "ratatouille": "2025-03-12 00:19:16 -0300"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-04-01 23:16:15 -0300",
+      "wheat": "2025-04-01 23:15:15 -0300"
     },
     "done": false
   },
@@ -2214,6 +2295,12 @@
     },
     "done": true
   },
+  "cisco_mod:divine_ruby_advancement": {
+    "criteria": {
+      "divine_ruby_advancement": "2025-04-01 23:35:51 -0300"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -2302,6 +2389,7 @@
       "byg:baobab_savanna": "2025-03-15 22:57:06 -0300",
       "byg:amaranth_fields": "2025-03-15 12:00:35 -0300",
       "byg:lush_stacks": "2025-03-15 22:58:33 -0300",
+      "byg:basalt_barrera": "2025-03-31 19:10:20 -0300",
       "byg:maple_taiga": "2025-03-11 23:02:38 -0300",
       "byg:dacite_shore": "2025-03-15 11:55:52 -0300",
       "byg:windswept_desert": "2025-03-15 11:59:46 -0300"
@@ -2519,6 +2607,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-03-08 23:40:36 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-04-01 23:24:57 -0300"
     },
     "done": true
   },

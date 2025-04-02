@@ -152,7 +152,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-03-11 23:09:08 -0300"
+      "in_better_zombie_dungeon": "2025-03-11 23:09:08 -0300",
+      "in_better_spider_dungeon": "2025-04-02 00:54:35 -0300"
     },
     "done": false
   },
@@ -296,6 +297,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_core_block": "2025-04-01 23:05:33 -0300"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:51:05 -0300"
@@ -404,9 +411,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2025-04-02 00:03:29 -0300"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2025-04-01 23:48:04 -0300"
     },
     "done": true
   },
@@ -477,6 +496,7 @@
       "minecraft:skeleton": "2025-03-09 00:04:08 -0300",
       "minecraft:ravager": "2025-03-16 22:26:43 -0300",
       "minecraft:vindicator": "2025-03-16 01:05:22 -0300",
+      "minecraft:magma_cube": "2025-04-01 23:04:29 -0300",
       "minecraft:spider": "2025-03-09 00:49:08 -0300",
       "minecraft:piglin_brute": "2025-03-16 22:56:50 -0300",
       "minecraft:creeper": "2025-03-16 22:42:30 -0300",
@@ -557,6 +577,12 @@
       "has_parent_recipe": "2025-03-16 21:01:24 -0300"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2025-04-02 00:03:29 -0300"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/tools/forbidden_axe": {
     "criteria": {
@@ -1006,19 +1032,24 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-14 23:37:15 -0300",
+      "minecraft:old_growth_pine_taiga": "2025-04-02 00:07:03 -0300",
       "minecraft:taiga": "2025-03-11 22:45:01 -0300",
       "atmospheric:rainforest_basin": "2025-03-16 23:08:48 -0300",
       "minecraft:sunflower_plains": "2025-03-08 23:16:58 -0300",
       "minecraft:birch_forest": "2025-03-16 19:19:18 -0300",
       "minecraft:beach": "2025-03-14 23:31:07 -0300",
+      "minecraft:dark_forest": "2025-04-01 22:57:09 -0300",
       "minecraft:river": "2025-03-09 00:13:59 -0300",
       "minecraft:lukewarm_ocean": "2025-03-16 00:28:46 -0300",
       "minecraft:stony_shore": "2025-03-14 23:01:10 -0300",
       "minecraft:grove": "2025-03-14 23:36:37 -0300",
       "minecraft:cold_ocean": "2025-03-14 23:01:17 -0300",
+      "atmospheric:aspen_parkland": "2025-04-02 00:13:34 -0300",
       "minecraft:forest": "2025-03-08 23:12:31 -0300",
       "minecraft:lush_caves": "2025-03-16 20:20:26 -0300",
       "minecraft:ocean": "2025-03-16 02:05:57 -0300",
+      "minecraft:jungle": "2025-04-01 22:55:50 -0300",
+      "minecraft:deep_lukewarm_ocean": "2025-04-01 23:47:00 -0300",
       "minecraft:frozen_peaks": "2025-03-16 19:20:42 -0300",
       "minecraft:old_growth_birch_forest": "2025-03-16 19:15:53 -0300",
       "minecraft:deep_dark": "2025-03-23 22:39:25 -0300",
@@ -1087,6 +1118,12 @@
       "has_parent_recipe": "2025-03-16 02:01:56 -0300"
     },
     "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-01 23:14:50 -0300"
+    },
+    "done": true
   },
   "apotheosis:enchanting/enchanter": {
     "criteria": {
@@ -1243,6 +1280,12 @@
       "has_the_recipe": "2025-03-16 20:33:19 -0300"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "has_parent_recipe": "2025-04-02 00:03:29 -0300"
+    },
+    "done": false
   },
   "comforts:hammock_brown": {
     "criteria": {
@@ -1616,6 +1659,18 @@
     },
     "done": false
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-04-02 00:53:03 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2025-04-01 23:55:31 -0300"
+    },
+    "done": true
+  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -1862,6 +1917,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-02 00:54:35 -0300"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/cursed_xp_scroll": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -1930,10 +1991,24 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-04-01 23:14:37 -0300",
+      "potato": "2025-04-01 23:18:10 -0300",
+      "wheat": "2025-04-01 23:14:50 -0300"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
       "has_parent_recipe": "2025-03-16 02:01:56 -0300",
       "has_items": "2025-03-16 21:01:25 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-04-01 23:00:41 -0300"
     },
     "done": true
   },
@@ -2242,6 +2317,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-04-02 00:13:34 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/xp_scroll": {
     "criteria": {
       "has_the_recipe": "2025-03-16 02:01:56 -0300"
@@ -2269,11 +2350,13 @@
       "byg:orchard": "2025-03-15 00:06:51 -0300",
       "byg:red_oak_forest": "2025-03-16 22:54:26 -0300",
       "byg:araucaria_savanna": "2025-03-15 23:36:44 -0300",
+      "byg:jacaranda_forest": "2025-04-01 22:56:07 -0300",
       "byg:skyris_vale": "2025-03-14 22:55:29 -0300",
       "byg:baobab_savanna": "2025-03-16 01:42:39 -0300",
       "byg:amaranth_fields": "2025-03-16 22:55:07 -0300",
       "byg:basalt_barrera": "2025-03-15 00:05:36 -0300",
       "byg:lush_stacks": "2025-03-16 00:38:35 -0300",
+      "byg:temperate_rainforest": "2025-04-01 22:56:48 -0300",
       "byg:maple_taiga": "2025-03-14 23:02:38 -0300",
       "byg:dacite_shore": "2025-03-15 23:27:38 -0300"
     },
