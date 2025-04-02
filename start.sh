@@ -461,6 +461,25 @@ runJavaCommand "${SERVER_RUN_COMMAND}"
 
 echo ""
 echo "Exiting..."
+
+# Obtener la fecha y hora actual en el formato compatible con GitHub (ISO 8601)
+COMMIT_MESSAGE=$(date +"%Y-%m-%d %H:%M:%S")
+
+# Agregar archivos al área de preparación
+echo "Agregando archivos al área de preparación..."
+git add .
+
+# Realizar el commit
+echo "Haciendo commit con el mensaje: $COMMIT_MESSAGE"
+git commit -m "$COMMIT_MESSAGE"
+
+# Enviar los cambios al repositorio remoto
+echo "Enviando los cambios al repositorio remoto..."
+git push
+
+echo "¡Commit realizado con éxito! Fecha y hora del commit: $COMMIT_MESSAGE"
+
+
 read -n 1 -s -r -p "Press any key to continue"
 trap 'kill $(cat playit.pid) 2>/dev/null' EXIT
 exit 0
