@@ -477,9 +477,6 @@ git commit -m "$COMMIT_MESSAGE"
 echo "Enviando los cambios al repositorio remoto..."
 git push
 
-echo "¡Commit realizado con éxito! Fecha y hora del commit: $COMMIT_MESSAGE"
-
-
 read -n 1 -s -r -p "Press any key to continue"
 trap 'kill $(cat playit.pid) 2>/dev/null' EXIT
 exit 0
