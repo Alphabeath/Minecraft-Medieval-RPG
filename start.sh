@@ -463,7 +463,7 @@ echo ""
 echo "Exiting..."
 
 # Obtener la fecha y hora actual en el formato compatible con GitHub (ISO 8601)
-COMMIT_MESSAGE=$("Autocommit"+ date +"%Y-%m-%d %H:%M:%S")
+COMMIT_MESSAGE=" Autocommit $(date +"%Y-%m-%d %H:%M:%S")"
 
 # Agregar archivos al área de preparación
 echo "Agregando archivos al área de preparación..."
