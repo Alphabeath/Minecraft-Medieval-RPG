@@ -824,6 +824,12 @@
     },
     "done": true
   },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-04-04 23:08:48 -0300"
+    },
+    "done": true
+  },
   "vinery:mangrove_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -2177,6 +2183,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-04-04 23:28:58 -0300"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-03-08 23:12:30 -0300"
@@ -2422,6 +2434,12 @@
       "enchanted_item": "2025-03-23 23:38:46 -0300"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-04-04 23:28:08 -0300"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
