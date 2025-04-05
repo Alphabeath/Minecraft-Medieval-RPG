@@ -132,6 +132,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-05 01:28:53 -0300"
+    },
+    "done": true
+  },
   "vinery:oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -452,6 +458,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_icy": "2025-04-05 01:24:27 -0300"
+    },
+    "done": false
+  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-03-11 23:41:17 -0300"
@@ -473,13 +485,20 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-03-11 22:47:30 -0300",
-      "opened_chest": "2025-03-09 00:56:36 -0300"
+      "opened_chest": "2025-03-09 00:56:36 -0300",
+      "opened_cart": "2025-04-05 01:28:53 -0300"
     },
     "done": false
   },
   "vinery:cherry_door": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:dormant_relic": {
+    "criteria": {
+      "requirement": "2025-04-05 01:00:39 -0300"
     },
     "done": true
   },
@@ -577,6 +596,12 @@
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-04-05 00:33:00 -0300"
     },
     "done": true
   },
@@ -721,6 +746,12 @@
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2025-03-16 18:23:21 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-04-05 00:33:00 -0300"
     },
     "done": true
   },
@@ -982,11 +1013,14 @@
       "minecraft:river": "2025-03-09 01:02:49 -0300",
       "minecraft:lukewarm_ocean": "2025-03-15 23:38:10 -0300",
       "minecraft:stony_shore": "2025-03-14 23:20:43 -0300",
+      "minecraft:snowy_plains": "2025-04-05 00:37:18 -0300",
       "minecraft:grove": "2025-03-16 18:35:52 -0300",
       "minecraft:cold_ocean": "2025-03-14 23:46:47 -0300",
       "atmospheric:aspen_parkland": "2025-04-02 00:08:17 -0300",
       "minecraft:forest": "2025-03-09 00:53:21 -0300",
       "minecraft:lush_caves": "2025-03-16 19:16:33 -0300",
+      "minecraft:frozen_ocean": "2025-04-05 00:33:32 -0300",
+      "minecraft:deep_frozen_ocean": "2025-04-05 00:26:06 -0300",
       "minecraft:ocean": "2025-04-02 00:04:37 -0300",
       "minecraft:deep_lukewarm_ocean": "2025-04-01 23:45:42 -0300",
       "minecraft:frozen_peaks": "2025-03-16 18:35:50 -0300",
@@ -1376,6 +1410,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-04-05 00:29:29 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_recipe_result": "2025-03-09 01:01:55 -0300"
@@ -1527,6 +1567,12 @@
     },
     "done": false
   },
+  "aquamirae:recipes/sharp_bones": {
+    "criteria": {
+      "has_item": "2025-04-05 00:33:00 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infinimeal": {
     "criteria": {
       "has_items": "2025-03-09 01:12:49 -0300"
@@ -1614,6 +1660,12 @@
   "enigmaticlegacy:recipes/generic/thicc_scroll": {
     "criteria": {
       "has_items": "2025-03-21 00:11:36 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-04-05 00:26:06 -0300"
     },
     "done": true
   },
@@ -2258,7 +2310,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-04-02 01:06:27 -0300"
+      "direct": "2025-04-05 01:55:25 -0300"
     },
     "done": false
   },

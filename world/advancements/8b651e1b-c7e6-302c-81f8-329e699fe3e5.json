@@ -156,6 +156,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-05 01:14:01 -0300"
+    },
+    "done": true
+  },
   "royalvariations:explosive_king": {
     "criteria": {
       "explosive_king": "2025-03-16 22:38:59 -0300"
@@ -481,6 +487,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_icy": "2025-04-05 01:12:34 -0300"
+    },
+    "done": false
+  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-03-09 15:29:26 -0300"
@@ -496,7 +508,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-03-08 23:40:51 -0300",
-      "opened_chest": "2025-03-08 23:16:29 -0300"
+      "opened_chest": "2025-03-08 23:16:29 -0300",
+      "opened_cart": "2025-04-05 01:14:01 -0300"
     },
     "done": false
   },
@@ -613,6 +626,12 @@
       "generic_revelation": "2025-03-09 00:57:17 -0300"
     },
     "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "librarian": "2025-04-05 00:39:22 -0300"
+    },
+    "done": false
   },
   "totw_modded:root": {
     "criteria": {
@@ -1104,9 +1123,11 @@
       "minecraft:deep_cold_ocean": "2025-03-15 11:06:41 -0300",
       "minecraft:frozen_ocean": "2025-03-15 16:15:11 -0300",
       "minecraft:desert": "2025-03-21 12:33:29 -0300",
+      "minecraft:deep_frozen_ocean": "2025-04-04 23:55:09 -0300",
       "minecraft:ocean": "2025-03-15 00:01:33 -0300",
       "minecraft:jungle": "2025-03-15 12:02:10 -0300",
       "minecraft:old_growth_spruce_taiga": "2025-03-14 22:38:25 -0300",
+      "minecraft:snowy_beach": "2025-04-04 23:54:35 -0300",
       "minecraft:warm_ocean": "2025-03-15 11:59:21 -0300",
       "minecraft:deep_lukewarm_ocean": "2025-03-21 22:52:56 -0300",
       "atmospheric:scrubland": "2025-03-15 11:59:36 -0300",
@@ -1493,6 +1514,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-04-05 00:15:04 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-03-08 23:19:27 -0300"
@@ -1618,6 +1645,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-04-01 23:35:48 -0300",
+      "suspicious_stew": "2025-04-05 00:16:42 -0300",
       "apple": "2025-03-28 16:42:45 -0300",
       "bread": "2025-03-08 23:17:29 -0300",
       "golden_apple": "2025-03-12 00:25:28 -0300",
@@ -1755,6 +1783,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-04-04 23:55:09 -0300"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-03-08 23:25:53 -0300"
@@ -1813,6 +1847,12 @@
   "vinery:wine_rack_3": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/abyssal_amethyst": {
+    "criteria": {
+      "has_item": "2025-04-05 00:12:29 -0300"
     },
     "done": true
   },
@@ -2224,6 +2264,12 @@
     },
     "done": true
   },
+  "simplyswords:twisted_blade": {
+    "criteria": {
+      "requirement": "2025-04-05 01:34:00 -0300"
+    },
+    "done": true
+  },
   "vinery:cherry_boat": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -2380,21 +2426,28 @@
       "byg:rainbow_beach": "2025-03-15 11:48:39 -0300",
       "byg:temperate_grove": "2025-03-08 23:31:32 -0300",
       "byg:autumnal_taiga": "2025-03-14 22:39:12 -0300",
+      "byg:black_forest": "2025-04-04 23:47:20 -0300",
       "byg:orchard": "2025-03-10 18:19:39 -0300",
       "byg:red_oak_forest": "2025-03-16 22:54:25 -0300",
+      "byg:autumnal_forest": "2025-04-04 23:47:15 -0300",
+      "byg:rose_fields": "2025-04-04 23:47:05 -0300",
       "byg:firecracker_shrubland": "2025-03-15 11:53:50 -0300",
+      "byg:weeping_witch_forest": "2025-04-04 23:45:39 -0300",
       "byg:zelkova_forest": "2025-03-14 22:43:33 -0300",
       "byg:araucaria_savanna": "2025-03-15 12:00:20 -0300",
       "byg:dacite_ridges": "2025-03-14 22:39:32 -0300",
       "byg:aspen_forest": "2025-03-15 16:07:47 -0300",
       "byg:cherry_blossom_forest": "2025-03-15 23:26:52 -0300",
+      "byg:cardinal_tundra": "2025-04-04 23:50:51 -0300",
       "byg:baobab_savanna": "2025-03-15 22:57:06 -0300",
       "byg:amaranth_fields": "2025-03-15 12:00:35 -0300",
       "byg:lush_stacks": "2025-03-15 22:58:33 -0300",
       "byg:basalt_barrera": "2025-03-31 19:10:20 -0300",
       "byg:maple_taiga": "2025-03-11 23:02:38 -0300",
       "byg:dacite_shore": "2025-03-15 11:55:52 -0300",
-      "byg:windswept_desert": "2025-03-15 11:59:46 -0300"
+      "byg:frosted_coniferous_forest": "2025-04-05 00:04:26 -0300",
+      "byg:windswept_desert": "2025-03-15 11:59:46 -0300",
+      "byg:frosted_taiga": "2025-04-05 00:04:48 -0300"
     },
     "done": false
   },
@@ -2452,6 +2505,12 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-04-05 00:16:42 -0300"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -2463,12 +2522,6 @@
       "enchanted_item": "2025-03-23 23:51:52 -0300"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-04-04 23:08:46 -0300"
-    },
-    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
