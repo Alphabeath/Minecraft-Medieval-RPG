@@ -380,6 +380,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/soul_compass": {
+    "criteria": {
+      "has_items1": "2025-04-05 23:38:06 -0400"
+    },
+    "done": false
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-03-09 00:53:20 -0300"
@@ -532,6 +538,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2025-04-05 22:56:44 -0300"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_village": {
     "criteria": {
       "location0": "2025-03-16 22:59:57 -0300"
@@ -572,6 +584,12 @@
   "enigmaticlegacy:book/misc/enchantment_transposer": {
     "criteria": {
       "has_the_recipe": "2025-03-16 02:10:05 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/forbidden_axe": {
+    "criteria": {
+      "has_the_recipe": "2025-04-05 23:38:06 -0400"
     },
     "done": true
   },
@@ -1170,6 +1188,12 @@
     },
     "done": true
   },
+  "cisco_mod:sleeping_sword": {
+    "criteria": {
+      "sleeping_sword": "2025-04-05 23:48:45 -0400"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/forger_gem": {
     "criteria": {
       "has_items": "2025-03-11 23:22:57 -0300"
@@ -1454,7 +1478,8 @@
   },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
-      "has_parent_recipe": "2025-03-09 00:53:20 -0300"
+      "has_parent_recipe": "2025-03-09 00:53:20 -0300",
+      "has_items2": "2025-04-05 23:38:06 -0400"
     },
     "done": false
   },
@@ -1747,6 +1772,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/forbidden_axe": {
+    "criteria": {
+      "has_items": "2025-04-05 23:38:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-03-15 00:23:04 -0300"
@@ -1811,7 +1842,8 @@
     "criteria": {
       "grindstone": "2025-03-16 01:37:44 -0300",
       "smithingtable": "2025-03-11 23:04:16 -0300",
-      "blastfurnace": "2025-03-14 22:46:40 -0300"
+      "blastfurnace": "2025-03-14 22:46:40 -0300",
+      "cauldron": "2025-04-05 23:22:10 -0300"
     },
     "done": false
   },
@@ -1863,6 +1895,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-04-05 22:51:25 -0300"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -1901,7 +1939,8 @@
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
-      "has_parent_recipe": "2025-03-09 00:53:20 -0300"
+      "has_parent_recipe": "2025-03-09 00:53:20 -0300",
+      "has_items3": "2025-04-05 23:38:06 -0400"
     },
     "done": false
   },
@@ -1946,6 +1985,12 @@
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/monster_charm": {
+    "criteria": {
+      "has_the_recipe": "2025-04-05 23:38:06 -0400"
     },
     "done": true
   },
@@ -2161,9 +2206,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-04-05 23:58:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-09 01:22:13 -0300"
+    },
+    "done": true
+  },
+  "cisco_mod:divine_ruby_advancement": {
+    "criteria": {
+      "divine_ruby_advancement": "2025-04-05 23:44:31 -0400"
     },
     "done": true
   },
@@ -2272,6 +2329,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-05 22:56:44 -0300"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-04-04 23:24:31 -0300"
@@ -2308,12 +2371,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-04-05 01:55:25 -0300"
-    },
-    "done": false
-  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-03-09 00:53:20 -0300"
@@ -2323,6 +2380,12 @@
   "enigmaticlegacy:recipes/generic/insignia": {
     "criteria": {
       "has_iron_ingot": "2025-03-11 23:17:45 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/monster_charm": {
+    "criteria": {
+      "has_items": "2025-04-05 23:38:06 -0400"
     },
     "done": true
   },
@@ -2420,7 +2483,8 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
-      "has_parent_recipe": "2025-03-21 00:11:36 -0300"
+      "has_parent_recipe": "2025-03-21 00:11:36 -0300",
+      "has_items2": "2025-04-05 23:38:06 -0400"
     },
     "done": false
   },
