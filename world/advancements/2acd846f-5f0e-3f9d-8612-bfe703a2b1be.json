@@ -1330,6 +1330,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem_cut": {
+    "criteria": {
+      "cut": "2025-04-08 21:29:06 -0400"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/extradimensional_eye": {
     "criteria": {
       "has_the_recipe": "2025-03-16 20:33:19 -0300"
@@ -2529,7 +2535,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-04-06 01:09:16 -0400"
+      "direct": "2025-04-08 21:53:07 -0400"
     },
     "done": false
   },
