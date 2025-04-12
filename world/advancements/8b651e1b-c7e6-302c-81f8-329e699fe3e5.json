@@ -633,6 +633,12 @@
     },
     "done": false
   },
+  "majruszsaccessories:tamed_potato_beetle": {
+    "criteria": {
+      "picked_up_accessory": "2025-04-11 23:05:17 -0400"
+    },
+    "done": true
+  },
   "totw_modded:root": {
     "criteria": {
       "sample_trigger": "2025-03-08 23:08:30 -0300"
@@ -2077,6 +2083,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-11 23:05:30 -0400",
       "tomato": "2025-04-01 23:16:15 -0300",
       "kelp": "2025-04-11 20:15:15 -0400",
       "beetroot": "2025-04-04 23:09:38 -0300",
@@ -2523,6 +2530,12 @@
       "enchanted_item": "2025-03-23 23:51:52 -0300"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-04-12 01:35:06 -0400"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {

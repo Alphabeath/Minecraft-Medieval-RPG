@@ -422,6 +422,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-11 23:56:22 -0400"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -1843,7 +1849,9 @@
       "grindstone": "2025-03-16 01:37:44 -0300",
       "smithingtable": "2025-03-11 23:04:16 -0300",
       "blastfurnace": "2025-03-14 22:46:40 -0300",
-      "cauldron": "2025-04-05 23:22:10 -0300"
+      "lectern": "2025-04-12 00:36:51 -0400",
+      "cauldron": "2025-04-05 23:22:10 -0300",
+      "composter": "2025-04-12 01:15:38 -0400"
     },
     "done": false
   },

@@ -2099,7 +2099,8 @@
     "criteria": {
       "tomato": "2025-04-01 23:14:37 -0300",
       "potato": "2025-04-01 23:18:10 -0300",
-      "wheat": "2025-04-01 23:14:50 -0300"
+      "wheat": "2025-04-01 23:14:50 -0300",
+      "carrot": "2025-04-11 23:47:45 -0400"
     },
     "done": false
   },
@@ -2377,6 +2378,12 @@
     },
     "done": true
   },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-04-11 23:07:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-08 23:14:15 -0300"
@@ -2466,6 +2473,7 @@
       "byg:rainbow_beach": "2025-03-15 00:39:04 -0300",
       "byg:orchard": "2025-03-15 00:06:51 -0300",
       "byg:red_oak_forest": "2025-03-16 22:54:26 -0300",
+      "byg:firecracker_shrubland": "2025-04-12 00:13:15 -0400",
       "byg:araucaria_savanna": "2025-03-15 23:36:44 -0300",
       "byg:jacaranda_forest": "2025-04-01 22:56:07 -0300",
       "byg:skyris_vale": "2025-03-14 22:55:29 -0300",
@@ -2535,7 +2543,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-04-08 21:53:07 -0400"
+      "direct": "2025-04-12 00:13:20 -0400"
     },
     "done": false
   },
