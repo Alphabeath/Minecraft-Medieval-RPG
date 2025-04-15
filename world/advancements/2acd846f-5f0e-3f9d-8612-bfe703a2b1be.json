@@ -150,6 +150,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-04-14 21:50:38 -0400"
+    },
+    "done": true
+  },
   "vinery:oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -2543,7 +2549,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-04-13 12:52:07 -0400"
+      "not_target": "2025-04-14 23:08:32 -0400"
     },
     "done": false
   },

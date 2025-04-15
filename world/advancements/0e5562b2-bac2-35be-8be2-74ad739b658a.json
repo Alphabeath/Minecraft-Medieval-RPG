@@ -60,6 +60,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2025-04-14 22:47:31 -0400"
+    },
+    "done": true
+  },
   "vinery:loam": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -638,6 +644,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2025-04-14 23:52:31 -0400"
     },
     "done": true
   },
@@ -2378,6 +2390,12 @@
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-04-14 23:49:39 -0400"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
