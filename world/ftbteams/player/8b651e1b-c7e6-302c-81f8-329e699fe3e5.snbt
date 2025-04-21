@@ -2,9 +2,7 @@
 	id: "8b651e1b-c7e6-302c-81f8-329e699fe3e5"
 	type: "player"
 	player_name: "Alphabeath"
-	ranks: {
-		8b651e1b-c7e6-302c-81f8-329e699fe3e5: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Alphabeath"
 		"ftbteams:description": ""

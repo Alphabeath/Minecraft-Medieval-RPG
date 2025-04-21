@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-04-20 23:02:21 -0400"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/night_scroll": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -1100,6 +1106,7 @@
       "atmospheric:rainforest_basin": "2025-03-16 23:08:48 -0300",
       "minecraft:sunflower_plains": "2025-03-08 23:16:58 -0300",
       "minecraft:birch_forest": "2025-03-16 19:19:18 -0300",
+      "minecraft:badlands": "2025-04-21 01:14:44 -0400",
       "minecraft:beach": "2025-03-14 23:31:07 -0300",
       "minecraft:dark_forest": "2025-04-01 22:57:09 -0300",
       "minecraft:river": "2025-03-09 00:13:59 -0300",
@@ -1561,6 +1568,12 @@
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_cobweb": "2025-03-08 23:12:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-04-21 01:09:41 -0400"
     },
     "done": true
   },
@@ -2299,6 +2312,12 @@
     },
     "done": true
   },
+  "byg:husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2025-04-20 22:59:45 -0400"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -2517,6 +2536,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-04-20 23:01:28 -0400"
+    },
+    "done": true
+  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -2555,7 +2580,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-04-16 00:33:26 -0400"
+      "not_target": "2025-04-21 01:19:42 -0400"
     },
     "done": false
   },
