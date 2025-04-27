@@ -1464,6 +1464,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-21 23:23:13 -0400"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-03-09 00:53:20 -0300"
@@ -1989,6 +1995,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-04-21 23:18:51 -0400"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-04-01 23:14:53 -0300"
@@ -2232,6 +2244,12 @@
     },
     "done": true
   },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-04-21 23:22:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-09 01:22:13 -0300"
@@ -2393,7 +2411,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-04-21 01:17:34 -0400"
+      "direct": "2025-04-21 23:20:07 -0400"
     },
     "done": false
   },
