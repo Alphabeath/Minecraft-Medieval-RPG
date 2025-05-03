@@ -241,6 +241,12 @@
     },
     "done": true
   },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2025-05-03 01:43:01 -0400"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -312,6 +318,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2025-03-09 21:31:17 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-05-03 00:39:52 -0400"
     },
     "done": true
   },
@@ -516,11 +528,19 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/darkest_scroll": {
+    "criteria": {
+      "has_items": "2025-05-03 01:18:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-08 23:19:08 -0300",
+      "minecraft:blaze": "2025-05-03 01:00:06 -0400",
       "minecraft:skeleton": "2025-03-09 00:04:08 -0300",
       "minecraft:ravager": "2025-03-16 22:26:43 -0300",
+      "minecraft:hoglin": "2025-05-03 01:17:00 -0400",
       "minecraft:vindicator": "2025-03-16 01:05:22 -0300",
       "minecraft:magma_cube": "2025-04-01 23:04:29 -0300",
       "minecraft:spider": "2025-03-09 00:49:08 -0300",
@@ -1104,16 +1124,21 @@
       "minecraft:old_growth_pine_taiga": "2025-04-02 00:07:03 -0300",
       "minecraft:taiga": "2025-03-11 22:45:01 -0300",
       "atmospheric:rainforest_basin": "2025-03-16 23:08:48 -0300",
+      "minecraft:eroded_badlands": "2025-05-02 23:32:59 -0400",
       "minecraft:sunflower_plains": "2025-03-08 23:16:58 -0300",
       "minecraft:birch_forest": "2025-03-16 19:19:18 -0300",
       "minecraft:badlands": "2025-04-21 01:14:44 -0400",
+      "minecraft:savanna_plateau": "2025-05-02 23:42:29 -0400",
       "minecraft:beach": "2025-03-14 23:31:07 -0300",
       "minecraft:dark_forest": "2025-04-01 22:57:09 -0300",
+      "minecraft:stony_peaks": "2025-05-02 23:41:20 -0400",
       "minecraft:river": "2025-03-09 00:13:59 -0300",
       "minecraft:lukewarm_ocean": "2025-03-16 00:28:46 -0300",
       "minecraft:stony_shore": "2025-03-14 23:01:10 -0300",
       "minecraft:snowy_plains": "2025-04-05 00:34:45 -0300",
       "minecraft:grove": "2025-03-14 23:36:37 -0300",
+      "minecraft:jagged_peaks": "2025-05-03 00:41:14 -0400",
+      "atmospheric:dunes": "2025-05-02 23:33:02 -0400",
       "minecraft:cold_ocean": "2025-03-14 23:01:17 -0300",
       "atmospheric:aspen_parkland": "2025-04-02 00:13:34 -0300",
       "minecraft:forest": "2025-03-08 23:12:31 -0300",
@@ -1124,10 +1149,12 @@
       "minecraft:jungle": "2025-04-01 22:55:50 -0300",
       "minecraft:snowy_beach": "2025-04-05 00:36:20 -0300",
       "minecraft:deep_lukewarm_ocean": "2025-04-01 23:47:00 -0300",
+      "atmospheric:scrubland": "2025-05-02 23:30:26 -0400",
       "minecraft:frozen_peaks": "2025-03-16 19:20:42 -0300",
       "minecraft:old_growth_birch_forest": "2025-03-16 19:15:53 -0300",
       "minecraft:deep_dark": "2025-03-23 22:39:25 -0300",
       "minecraft:meadow": "2025-03-08 23:14:31 -0300",
+      "atmospheric:petrified_dunes": "2025-05-02 23:34:42 -0400",
       "minecraft:savanna": "2025-03-16 01:44:48 -0300",
       "minecraft:plains": "2025-03-08 23:16:20 -0300"
     },
@@ -1189,7 +1216,8 @@
   },
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-03-16 02:01:56 -0300"
+      "has_parent_recipe": "2025-03-16 02:01:56 -0300",
+      "has_items2": "2025-05-03 01:18:34 -0400"
     },
     "done": false
   },
@@ -1343,6 +1371,12 @@
     },
     "done": true
   },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2025-05-02 23:32:11 -0400"
+    },
+    "done": false
+  },
   "simplyswords:thunderbrand": {
     "criteria": {
       "requirement": "2025-03-16 19:21:43 -0300"
@@ -1366,6 +1400,12 @@
       "has_parent_recipe": "2025-04-02 00:03:29 -0300"
     },
     "done": false
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-05-02 23:56:42 -0400"
+    },
+    "done": true
   },
   "comforts:hammock_brown": {
     "criteria": {
@@ -2034,6 +2074,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-05-03 00:15:51 -0400"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -2246,6 +2292,7 @@
   },
   "quark:get_all_corundum": {
     "criteria": {
+      "red": "2025-05-03 00:46:18 -0400",
       "blue": "2025-03-16 23:04:09 -0300",
       "black": "2025-03-16 23:02:50 -0300"
     },
@@ -2300,9 +2347,21 @@
     },
     "done": true
   },
+  "simplyswords:longsword_plague": {
+    "criteria": {
+      "requirement": "2025-05-03 01:47:14 -0400"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/steampunk": {
     "criteria": {
       "has_item": "2025-04-04 23:28:58 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/discover_scroll": {
+    "criteria": {
+      "spellstone": "2025-05-03 01:18:34 -0400"
     },
     "done": true
   },
@@ -2394,6 +2453,12 @@
   "enigmaticlegacy:book/relics/eye_of_nebula": {
     "criteria": {
       "has_items": "2025-03-16 21:01:25 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-05-02 23:55:10 -0400"
     },
     "done": true
   },
@@ -2504,6 +2569,7 @@
       "byg:rainbow_beach": "2025-03-15 00:39:04 -0300",
       "byg:orchard": "2025-03-15 00:06:51 -0300",
       "byg:red_oak_forest": "2025-03-16 22:54:26 -0300",
+      "byg:redwood_thicket": "2025-05-02 23:35:47 -0400",
       "byg:firecracker_shrubland": "2025-04-12 00:13:15 -0400",
       "byg:araucaria_savanna": "2025-03-15 23:36:44 -0300",
       "byg:jacaranda_forest": "2025-04-01 22:56:07 -0300",
@@ -2514,7 +2580,9 @@
       "byg:lush_stacks": "2025-03-16 00:38:35 -0300",
       "byg:temperate_rainforest": "2025-04-01 22:56:48 -0300",
       "byg:maple_taiga": "2025-03-14 23:02:38 -0300",
-      "byg:dacite_shore": "2025-03-15 23:27:38 -0300"
+      "byg:mojave_desert": "2025-05-02 23:32:50 -0400",
+      "byg:dacite_shore": "2025-03-15 23:27:38 -0300",
+      "byg:windswept_desert": "2025-05-02 23:32:41 -0400"
     },
     "done": false
   },
@@ -2554,6 +2622,12 @@
     },
     "done": true
   },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-05-03 01:11:04 -0400"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/insignia": {
     "criteria": {
       "has_the_recipe": "2025-03-16 02:34:01 -0300"
@@ -2580,7 +2654,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-04-21 01:19:42 -0400"
+      "target": "2025-05-03 01:49:21 -0400"
     },
     "done": false
   },
@@ -2700,6 +2774,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
+    "criteria": {
+      "has_items": "2025-05-03 01:05:10 -0400"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2025-03-16 02:01:56 -0300",
@@ -2721,7 +2801,8 @@
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-03-16 02:01:56 -0300"
+      "has_parent_recipe": "2025-03-16 02:01:56 -0300",
+      "has_items1": "2025-05-03 01:18:34 -0400"
     },
     "done": false
   },
@@ -2729,6 +2810,12 @@
     "criteria": {
       "requirement": "2025-03-08 23:16:09 -0300",
       "log_spam_fixer": "2025-03-08 23:12:31 -0300"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-05-03 00:09:56 -0400"
     },
     "done": true
   },

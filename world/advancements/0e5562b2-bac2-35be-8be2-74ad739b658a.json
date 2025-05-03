@@ -114,6 +114,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-02 23:06:58 -0400"
+    },
+    "done": true
+  },
   "simplyswords:sword_on_a_stick": {
     "criteria": {
       "requirement": "2025-03-11 23:23:04 -0300"
@@ -126,9 +132,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/enigmatic_elytra": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 23:06:58 -0400"
+    },
+    "done": true
+  },
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2025-03-15 00:23:04 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enigmatic_elytra": {
+    "criteria": {
+      "has_items": "2025-05-02 23:06:58 -0400"
     },
     "done": true
   },
@@ -276,6 +294,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-03 01:32:48 -0400"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_fishing_ship": "2025-03-16 01:35:40 -0300",
@@ -299,6 +323,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2025-03-09 01:16:22 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-05-03 00:44:41 -0400"
     },
     "done": true
   },
@@ -355,6 +385,12 @@
       "log_spam_fixer": "2025-03-09 00:53:21 -0300"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/relics/blazing_core": {
+    "criteria": {
+      "has_items": "2025-05-03 01:04:55 -0400"
+    },
+    "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -437,6 +473,12 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2025-05-03 01:03:41 -0400"
     },
     "done": true
   },
@@ -529,10 +571,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-16 18:24:25 -0300",
+      "minecraft:blaze": "2025-05-03 01:01:50 -0400",
       "minecraft:skeleton": "2025-03-09 17:02:57 -0300",
+      "minecraft:hoglin": "2025-05-03 01:23:40 -0400",
       "minecraft:vindicator": "2025-03-16 01:06:39 -0300",
+      "minecraft:magma_cube": "2025-05-03 01:01:48 -0400",
       "minecraft:spider": "2025-03-12 01:09:55 -0300",
+      "minecraft:piglin_brute": "2025-05-03 00:53:19 -0400",
       "minecraft:creeper": "2025-03-16 20:05:07 -0300",
+      "minecraft:wither_skeleton": "2025-05-03 01:23:51 -0400",
       "minecraft:cave_spider": "2025-03-16 19:43:16 -0300",
       "minecraft:enderman": "2025-03-16 01:58:28 -0300",
       "minecraft:silverfish": "2025-03-16 19:16:44 -0300",
@@ -583,6 +630,7 @@
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone1": "2025-03-09 16:42:00 -0300",
+      "spellstone4": "2025-05-03 01:04:55 -0400",
       "spellstone5": "2025-03-16 22:24:32 -0300"
     },
     "done": false
@@ -1040,17 +1088,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-03 00:46:57 -0400",
       "minecraft:taiga": "2025-03-11 22:49:52 -0300",
       "atmospheric:rainforest_basin": "2025-03-16 23:08:43 -0300",
       "minecraft:sunflower_plains": "2025-03-09 00:59:40 -0300",
       "minecraft:birch_forest": "2025-03-09 17:54:49 -0300",
+      "minecraft:savanna_plateau": "2025-05-02 23:42:35 -0400",
       "minecraft:beach": "2025-03-14 23:58:41 -0300",
       "minecraft:dark_forest": "2025-03-09 17:54:34 -0300",
+      "minecraft:stony_peaks": "2025-05-02 23:39:37 -0400",
       "minecraft:river": "2025-03-09 01:02:49 -0300",
       "minecraft:lukewarm_ocean": "2025-03-15 23:38:10 -0300",
       "minecraft:stony_shore": "2025-03-14 23:20:43 -0300",
       "minecraft:snowy_plains": "2025-04-05 00:37:18 -0300",
       "minecraft:grove": "2025-03-16 18:35:52 -0300",
+      "minecraft:jagged_peaks": "2025-05-03 00:45:44 -0400",
       "minecraft:cold_ocean": "2025-03-14 23:46:47 -0300",
       "atmospheric:aspen_parkland": "2025-04-02 00:08:17 -0300",
       "minecraft:forest": "2025-03-09 00:53:21 -0300",
@@ -1263,6 +1315,12 @@
   "enigmaticlegacy:book/brewing/advanced_brewing": {
     "criteria": {
       "has_items": "2025-03-16 22:22:17 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/void_stone": {
+    "criteria": {
+      "has_items": "2025-05-02 23:55:35 -0400"
     },
     "done": true
   },
@@ -1610,6 +1668,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/accessories/hell_blade_charm": {
+    "criteria": {
+      "has_items": "2025-05-03 01:03:10 -0400"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-03-09 00:53:21 -0300"
@@ -1864,6 +1928,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "cartographytable": "2025-05-02 23:59:37 -0400",
       "grindstone": "2025-03-16 01:37:44 -0300",
       "smithingtable": "2025-03-11 23:04:16 -0300",
       "blastfurnace": "2025-03-14 22:46:40 -0300",
@@ -2110,6 +2175,12 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "blue": "2025-05-03 00:46:58 -0400"
+    },
+    "done": false
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-03-11 23:09:31 -0300"
@@ -2301,7 +2372,8 @@
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
       "has_item_1": "2025-03-09 16:42:00 -0300",
-      "has_item_5": "2025-03-16 22:24:32 -0300"
+      "has_item_5": "2025-03-16 22:24:32 -0300",
+      "has_item_4": "2025-05-03 01:04:55 -0400"
     },
     "done": false
   },
@@ -2411,7 +2483,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-04-21 23:20:07 -0400"
+      "target": "2025-05-03 01:58:34 -0400"
     },
     "done": false
   },
