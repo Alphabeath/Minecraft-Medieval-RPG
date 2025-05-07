@@ -300,6 +300,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-06 22:50:14 -0400"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-03-08 23:38:50 -0300",
@@ -1830,7 +1836,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-03-10 18:07:37 -0300"
+      "phantom": "2025-03-10 18:07:37 -0300",
+      "warden": "2025-05-06 22:57:25 -0400"
     },
     "done": false
   },
@@ -2286,6 +2293,12 @@
       "red": "2025-05-03 00:48:58 -0400"
     },
     "done": false
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-05-06 22:57:25 -0400"
+    },
+    "done": true
   },
   "minecraft:adventure/throw_trident": {
     "criteria": {
@@ -2784,6 +2797,12 @@
       "is_cursed_one": "2025-03-09 01:01:32 -0300"
     },
     "done": false
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-05-06 22:58:51 -0400"
+    },
+    "done": true
   },
   "comforts:hammock_green_from_white": {
     "criteria": {
