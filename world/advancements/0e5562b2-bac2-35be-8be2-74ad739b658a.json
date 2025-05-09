@@ -234,6 +234,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/void_pearl": {
+    "criteria": {
+      "has_items": "2025-05-08 22:21:21 -0400"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -631,6 +637,7 @@
     "criteria": {
       "spellstone1": "2025-03-09 16:42:00 -0300",
       "spellstone4": "2025-05-03 01:04:55 -0400",
+      "spellstone6": "2025-05-08 22:21:21 -0400",
       "spellstone5": "2025-03-16 22:24:32 -0300"
     },
     "done": false
@@ -1207,6 +1214,12 @@
   "vinery:cherry_wood": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-09 00:59:29 -0400"
     },
     "done": true
   },
@@ -1848,6 +1861,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/void_pearl": {
+    "criteria": {
+      "spellstone": "2025-05-08 22:21:21 -0400"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-03-09 00:59:05 -0300"
@@ -2145,6 +2164,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/ancient_gem": {
+    "criteria": {
+      "gem": "2025-05-09 00:18:00 -0400"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2025-03-11 23:51:19 -0300"
@@ -2373,6 +2398,7 @@
     "criteria": {
       "has_item_1": "2025-03-09 16:42:00 -0300",
       "has_item_5": "2025-03-16 22:24:32 -0300",
+      "has_item_6": "2025-05-08 22:21:21 -0400",
       "has_item_4": "2025-05-03 01:04:55 -0400"
     },
     "done": false
@@ -2480,12 +2506,6 @@
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-05-07 01:07:27 -0400"
-    },
-    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
@@ -2626,6 +2646,12 @@
     "criteria": {
       "requirement": "2025-03-09 01:15:30 -0300",
       "log_spam_fixer": "2025-03-09 00:53:21 -0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-05-09 01:04:33 -0400"
     },
     "done": true
   },

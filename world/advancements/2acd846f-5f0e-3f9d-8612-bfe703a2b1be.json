@@ -2654,7 +2654,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-05-03 01:49:21 -0400"
+      "not_target": "2025-05-09 00:54:33 -0400"
     },
     "done": false
   },
@@ -2777,6 +2777,12 @@
   "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
     "criteria": {
       "has_items": "2025-05-03 01:05:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-05-08 23:22:02 -0400"
     },
     "done": true
   },

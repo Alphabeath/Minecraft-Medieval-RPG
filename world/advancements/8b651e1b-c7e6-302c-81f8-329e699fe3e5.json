@@ -180,6 +180,12 @@
     },
     "done": false
   },
+  "simplyswords:soulstealer": {
+    "criteria": {
+      "requirement": "2025-05-09 00:28:41 -0400"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -505,6 +511,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-05-08 16:14:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-08 23:54:33 -0300"
@@ -772,6 +784,12 @@
   "enigmaticaddons:book/relics/lost_engine": {
     "criteria": {
       "has_items": "2025-03-12 00:32:23 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-05-08 14:19:50 -0400"
     },
     "done": true
   },
@@ -2416,6 +2434,12 @@
     },
     "done": true
   },
+  "majruszsenchantments:scholar": {
+    "criteria": {
+      "has_met_requirement": "2025-05-08 22:31:46 -0400"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -2797,6 +2821,12 @@
       "is_cursed_one": "2025-03-09 01:01:32 -0300"
     },
     "done": false
+  },
+  "apotheosis:spawner/modifier": {
+    "criteria": {
+      "modifier": "2025-05-08 13:32:25 -0400"
+    },
+    "done": true
   },
   "majruszsdifficulty:warden_treasure_bag": {
     "criteria": {
