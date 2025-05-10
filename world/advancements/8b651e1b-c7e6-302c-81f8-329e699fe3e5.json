@@ -264,6 +264,12 @@
     },
     "done": true
   },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-05-10 19:29:39 -0400"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -2255,6 +2261,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-05-09 19:55:31 -0400"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-05-03 01:34:18 -0400"
@@ -3021,6 +3033,12 @@
       "is_cursed_one": "2025-03-09 01:01:32 -0300"
     },
     "done": false
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-05-10 00:23:50 -0400"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/tools/astral_breaker": {
     "criteria": {

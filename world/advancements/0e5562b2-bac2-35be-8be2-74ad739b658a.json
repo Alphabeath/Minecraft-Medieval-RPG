@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-10 00:03:46 -0400"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-03-09 01:01:55 -0300",
@@ -135,6 +141,12 @@
   "enigmaticlegacy:book/accessories/enigmatic_elytra": {
     "criteria": {
       "has_the_recipe": "2025-05-02 23:06:58 -0400"
+    },
+    "done": true
+  },
+  "majruszsaccessories:discount_voucher": {
+    "criteria": {
+      "picked_up_accessory": "2025-05-10 00:47:13 -0400"
     },
     "done": true
   },
@@ -574,6 +586,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/darkest_scroll": {
+    "criteria": {
+      "has_items": "2025-05-10 00:06:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-16 18:24:25 -0300",
@@ -668,7 +686,8 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
-      "librarian": "2025-03-15 00:23:04 -0300"
+      "librarian": "2025-03-15 00:23:04 -0300",
+      "farmer": "2025-05-10 00:40:54 -0400"
     },
     "done": false
   },
@@ -1183,7 +1202,8 @@
   },
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-03-21 00:11:36 -0300"
+      "has_parent_recipe": "2025-03-21 00:11:36 -0300",
+      "has_items2": "2025-05-10 00:06:09 -0400"
     },
     "done": false
   },
@@ -2255,6 +2275,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/discover_scroll": {
+    "criteria": {
+      "spellstone": "2025-05-10 00:06:09 -0400"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-03-09 00:53:20 -0300"
@@ -2264,6 +2290,12 @@
   "byg:husbandry/berrily_alive": {
     "criteria": {
       "blue_berry": "2025-03-12 00:58:45 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-05-10 01:03:40 -0400"
     },
     "done": true
   },
@@ -2507,6 +2539,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-05-10 00:59:20 -0400"
+    },
+    "done": false
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-03-09 00:53:20 -0300"
@@ -2516,6 +2554,12 @@
   "enigmaticlegacy:recipes/generic/insignia": {
     "criteria": {
       "has_iron_ingot": "2025-03-11 23:17:45 -0300"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/materials/ichor_droplet": {
+    "criteria": {
+      "has_items": "2025-05-09 23:48:32 -0400"
     },
     "done": true
   },
@@ -2617,6 +2661,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
+    "criteria": {
+      "has_items": "2025-05-09 23:41:10 -0400"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2025-03-21 00:11:36 -0300",
@@ -2638,7 +2688,8 @@
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-03-21 00:11:36 -0300"
+      "has_parent_recipe": "2025-03-21 00:11:36 -0300",
+      "has_items1": "2025-05-10 00:06:09 -0400"
     },
     "done": false
   },

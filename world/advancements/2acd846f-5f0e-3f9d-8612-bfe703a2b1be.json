@@ -651,7 +651,8 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
-      "librarian": "2025-03-15 00:21:39 -0300"
+      "librarian": "2025-03-15 00:21:39 -0300",
+      "farmer": "2025-05-10 01:16:55 -0400"
     },
     "done": false
   },
@@ -2377,6 +2378,12 @@
     },
     "done": true
   },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-05-10 01:16:55 -0400"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:12:30 -0300"
@@ -2651,12 +2658,6 @@
       "enchanted_item": "2025-03-23 23:38:46 -0300"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-05-09 00:54:33 -0400"
-    },
-    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
