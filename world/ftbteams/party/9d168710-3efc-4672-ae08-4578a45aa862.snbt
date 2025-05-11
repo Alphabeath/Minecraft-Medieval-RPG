@@ -3,14 +3,16 @@
 	type: "party"
 	owner: "2acd846f-5f0e-3f9d-8612-bfe703a2b1be"
 	ranks: {
-		0e5562b2-bac2-35be-8be2-74ad739b658a: "invited"
+		0e5562b2-bac2-35be-8be2-74ad739b658a: "member"
 		2acd846f-5f0e-3f9d-8612-bfe703a2b1be: "owner"
+		8b651e1b-c7e6-302c-81f8-329e699fe3e5: "member"
+		29d27e0e-8f31-3171-881d-6385abac0ee3: "member"
 	}
 	properties: {
-		"ftbteams:display_name": "Zorras Team"
+		"ftbteams:display_name": "Team Supremo"
 		"ftbteams:description": "zzzzz"
-		"ftbteams:color": "#59FFE9"
-		"ftbteams:free_to_join": 0b
+		"ftbteams:color": "#FF5984"
+		"ftbteams:free_to_join": 1b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
 		"ftbchunks:allow_mob_griefing": 0b
@@ -28,6 +30,17 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1742006850388L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"hvice\"}]}" }
 		{ from: "2acd846f-5f0e-3f9d-8612-bfe703a2b1be", date: 1742006850398L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"narum0000\"}]}" }
 		{ from: "2acd846f-5f0e-3f9d-8612-bfe703a2b1be", date: 1742006859441L, text: "{\"text\":\"hi\"}" }
+		{ from: "2acd846f-5f0e-3f9d-8612-bfe703a2b1be", date: 1746938306560L, text: "{\"text\":\"hi\"}" }
+		{ from: "2acd846f-5f0e-3f9d-8612-bfe703a2b1be", date: 1746938456212L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Alphabeath\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1746938460208L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Alphabeath\"}]}" }
+		{ from: "2acd846f-5f0e-3f9d-8612-bfe703a2b1be", date: 1746938470574L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"felipe_zzz\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1746938478739L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"felipe_zzz\"}]}" }
+		{ from: "2acd846f-5f0e-3f9d-8612-bfe703a2b1be", date: 1746938607648L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"narum0000\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1746938611865L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"narum0000\"}]}" }
+		{ from: "2acd846f-5f0e-3f9d-8612-bfe703a2b1be", date: 1746938701759L, text: "{\"text\":\"hola\"}" }
+		{ from: "2acd846f-5f0e-3f9d-8612-bfe703a2b1be", date: 1746938704374L, text: "{\"text\":\"este es el chat\"}" }
+		{ from: "8b651e1b-c7e6-302c-81f8-329e699fe3e5", date: 1746938706518L, text: "{\"text\":\"aaa\"}" }
+		{ from: "29d27e0e-8f31-3171-881d-6385abac0ee3", date: 1746938709228L, text: "{\"text\":\"adsfasdfsdaf\"}" }
 	]
 	extra: { }
 }

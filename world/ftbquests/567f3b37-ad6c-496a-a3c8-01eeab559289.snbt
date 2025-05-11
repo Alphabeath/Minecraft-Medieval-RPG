@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "567f3b37ad6c496aa3c801eeab559289"
+	name: "ZorrasSupremas"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

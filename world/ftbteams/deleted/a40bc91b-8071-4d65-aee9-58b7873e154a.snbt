@@ -1,0 +1,29 @@
+{
+	id: "a40bc91b-8071-4d65-aee9-58b7873e154a"
+	type: "party"
+	owner: "0e5562b2-bac2-35be-8be2-74ad739b658a"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "aaa"
+		"ftbteams:description": "no se que chucha"
+		"ftbteams:color": "#59FFE9"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1746938362209L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"narum0000\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1746938595567L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"narum0000\"}]}" }
+	]
+	extra: { }
+}

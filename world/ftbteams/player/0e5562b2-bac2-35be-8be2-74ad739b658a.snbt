@@ -2,13 +2,11 @@
 	id: "0e5562b2-bac2-35be-8be2-74ad739b658a"
 	type: "player"
 	player_name: "narum0000"
-	ranks: {
-		0e5562b2-bac2-35be-8be2-74ad739b658a: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "narum0000"
 		"ftbteams:description": ""
-		"ftbteams:color": "#59BFFF"
+		"ftbteams:color": "#59FFE9"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b

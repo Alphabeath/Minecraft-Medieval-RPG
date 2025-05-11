@@ -1117,6 +1117,7 @@
       "minecraft:snowy_slopes": "2025-05-03 00:46:57 -0400",
       "minecraft:taiga": "2025-03-11 22:49:52 -0300",
       "atmospheric:rainforest_basin": "2025-03-16 23:08:43 -0300",
+      "minecraft:deep_ocean": "2025-05-11 00:22:54 -0400",
       "minecraft:sunflower_plains": "2025-03-09 00:59:40 -0300",
       "minecraft:birch_forest": "2025-03-09 17:54:49 -0300",
       "minecraft:savanna_plateau": "2025-05-02 23:42:35 -0400",
@@ -2541,7 +2542,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-05-10 00:59:20 -0400"
+      "not_target": "2025-05-11 00:51:28 -0400"
     },
     "done": false
   },
