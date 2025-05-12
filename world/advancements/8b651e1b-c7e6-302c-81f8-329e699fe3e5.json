@@ -2019,6 +2019,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-11 16:25:19 -0400"
+    },
+    "done": true
+  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -2682,6 +2688,12 @@
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2025-03-24 00:46:52 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2025-05-11 17:34:32 -0400"
     },
     "done": true
   },
