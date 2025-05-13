@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-13 00:02:05 -0400"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-03-08 23:19:27 -0300",
@@ -195,6 +201,12 @@
   "simplyswords:soulstealer": {
     "criteria": {
       "requirement": "2025-05-09 00:28:41 -0400"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-05-12 18:57:20 -0400"
     },
     "done": true
   },
@@ -438,6 +450,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/relics/blazing_core": {
+    "criteria": {
+      "has_items": "2025-05-12 23:56:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-03-08 23:23:59 -0300"
@@ -597,6 +615,12 @@
     },
     "done": false
   },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy": "2025-05-13 00:14:58 -0400"
+    },
+    "done": true
+  },
   "vinery:cherry_door": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -637,6 +661,7 @@
       "minecraft:evoker": "2025-03-09 17:21:32 -0300",
       "minecraft:slime": "2025-05-04 15:36:59 -0400",
       "minecraft:phantom": "2025-03-10 18:07:37 -0300",
+      "minecraft:zombified_piglin": "2025-05-13 00:25:45 -0400",
       "minecraft:witch": "2025-03-10 16:38:16 -0300",
       "minecraft:wither_skeleton": "2025-03-16 19:05:56 -0300",
       "minecraft:husk": "2025-03-09 17:16:56 -0300",
@@ -647,6 +672,7 @@
       "minecraft:silverfish": "2025-03-16 19:13:06 -0300",
       "minecraft:vex": "2025-03-09 00:57:04 -0300",
       "minecraft:zombie": "2025-03-08 23:54:33 -0300",
+      "quark:foxhound": "2025-05-13 00:56:44 -0400",
       "minecraft:drowned": "2025-03-16 18:27:39 -0300",
       "minecraft:zombie_villager": "2025-03-16 13:52:10 -0300"
     },
@@ -711,6 +737,7 @@
     "criteria": {
       "spellstone2": "2025-03-09 00:54:20 -0300",
       "spellstone1": "2025-03-16 13:48:51 -0300",
+      "spellstone4": "2025-05-12 23:56:16 -0400",
       "spellstone6": "2025-03-27 00:24:55 -0300",
       "spellstone5": "2025-03-16 19:32:27 -0300"
     },
@@ -929,6 +956,12 @@
     },
     "done": true
   },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-05-12 23:48:48 -0400"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/etherium": {
     "criteria": {
       "has_items": "2025-05-09 17:44:08 -0400"
@@ -983,6 +1016,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-05-13 00:00:24 -0400"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-03-11 23:12:34 -0300"
@@ -1031,6 +1070,18 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-05-13 00:00:14 -0400"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-05-12 23:48:48 -0400"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -1040,6 +1091,12 @@
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-05-12 18:44:29 -0400"
     },
     "done": true
   },
@@ -1125,6 +1182,12 @@
   "simplyswords:the_watcher": {
     "criteria": {
       "requirement": "2025-03-16 14:52:49 -0300"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-05-13 00:40:12 -0400"
     },
     "done": true
   },
@@ -1230,6 +1293,12 @@
       "log_spam_fixer": "2025-03-08 23:08:32 -0300"
     },
     "done": false
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-05-13 00:49:37 -0400"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
@@ -1439,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-05-12 19:29:05 -0400"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/quartz_ring": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -1516,6 +1591,13 @@
       "has_recipe_result": "2025-03-16 19:11:15 -0300"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-12 23:58:48 -0400",
+      "minecraft:soul_sand_valley": "2025-05-12 23:48:49 -0400"
+    },
+    "done": false
   },
   "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
     "criteria": {
@@ -1613,6 +1695,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-03-08 23:29:59 -0300"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-12 23:48:48 -0400"
     },
     "done": true
   },
@@ -1721,6 +1809,18 @@
   "enigmaticaddons:book/misc/totem_of_malice": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-05-12 18:56:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-12 23:48:48 -0400"
     },
     "done": true
   },
@@ -2025,6 +2125,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2025-05-13 00:24:13 -0400"
+    },
+    "done": true
+  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -2134,9 +2240,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-12 23:48:48 -0400"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/void_pearl": {
     "criteria": {
       "spellstone": "2025-03-27 00:24:55 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-05-13 00:45:09 -0400"
     },
     "done": true
   },
@@ -2425,6 +2543,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-12 23:50:05 -0400"
+    },
+    "done": true
+  },
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -2505,7 +2629,8 @@
   },
   "quark:get_all_corundum": {
     "criteria": {
-      "red": "2025-05-03 00:48:58 -0400"
+      "red": "2025-05-03 00:48:58 -0400",
+      "indigo": "2025-05-12 22:40:07 -0400"
     },
     "done": false
   },
@@ -2661,6 +2786,12 @@
     },
     "done": true
   },
+  "iter_rpg:iter_cursed": {
+    "criteria": {
+      "iter_cursed": "2025-05-13 00:13:35 -0400"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-03-08 23:16:33 -0300"
@@ -2756,7 +2887,8 @@
       "has_item_1": "2025-03-16 13:48:51 -0300",
       "has_item_2": "2025-03-09 00:54:20 -0300",
       "has_item_5": "2025-03-16 19:32:27 -0300",
-      "has_item_6": "2025-03-27 00:24:55 -0300"
+      "has_item_6": "2025-03-27 00:24:55 -0300",
+      "has_item_4": "2025-05-12 23:56:16 -0400"
     },
     "done": false
   },
@@ -2800,6 +2932,7 @@
       "byg:rose_fields": "2025-04-04 23:47:05 -0300",
       "byg:firecracker_shrubland": "2025-03-15 11:53:50 -0300",
       "byg:weeping_witch_forest": "2025-04-04 23:45:39 -0300",
+      "byg:embur_bog": "2025-05-12 23:49:35 -0400",
       "byg:zelkova_forest": "2025-03-14 22:43:33 -0300",
       "byg:araucaria_savanna": "2025-03-15 12:00:20 -0300",
       "byg:red_rock_valley": "2025-05-03 01:51:48 -0400",
@@ -3141,6 +3274,12 @@
       "is_cursed_one": "2025-03-09 01:01:32 -0300"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-05-13 00:00:24 -0400"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/animal_guidebook": {
     "criteria": {

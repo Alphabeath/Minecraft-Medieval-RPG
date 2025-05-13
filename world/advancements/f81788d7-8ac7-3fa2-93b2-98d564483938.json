@@ -192,6 +192,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-05-12 23:22:04 -0400"
+    },
+    "done": true
+  },
   "supplementaries:husbandry/wrench": {
     "criteria": {
       "wrench": "2025-05-09 00:57:29 -0400"
@@ -220,6 +226,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-05-09 00:14:03 -0400"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-12 22:43:57 -0400"
     },
     "done": true
   },
@@ -280,6 +292,12 @@
   "enigmaticlegacy:book/accessories/magnet_ring": {
     "criteria": {
       "has_the_recipe": "2025-05-09 00:21:08 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2025-05-12 23:22:04 -0400"
     },
     "done": true
   },
@@ -600,7 +618,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2025-05-09 00:14:03 -0400"
+      "opened_chest": "2025-05-09 00:14:03 -0400",
+      "opened_cart": "2025-05-12 22:43:57 -0400"
     },
     "done": false
   },
@@ -654,6 +673,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-12 23:02:32 -0400",
+      "minecraft:cave_spider": "2025-05-12 23:08:44 -0400",
+      "minecraft:stray": "2025-05-12 23:14:06 -0400",
       "minecraft:zombie": "2025-05-10 00:19:54 -0400"
     },
     "done": false
@@ -805,6 +827,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-09 00:21:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-12 22:57:36 -0400"
     },
     "done": true
   },
@@ -1036,6 +1064,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2025-05-12 23:20:23 -0400"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-05-08 23:25:58 -0400"
@@ -1075,6 +1109,12 @@
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-08 23:25:58 -0400"
+    },
+    "done": true
+  },
+  "simplyswords:stormbringer": {
+    "criteria": {
+      "requirement": "2025-05-12 23:14:48 -0400"
     },
     "done": true
   },
@@ -1140,9 +1180,10 @@
   },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-05-09 00:21:08 -0400"
+      "has_parent_recipe": "2025-05-09 00:21:08 -0400",
+      "has_items": "2025-05-12 23:22:04 -0400"
     },
-    "done": false
+    "done": true
   },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
@@ -1177,6 +1218,12 @@
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-05-09 00:17:17 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-05-12 23:21:49 -0400"
     },
     "done": true
   },
@@ -1422,6 +1469,12 @@
     },
     "done": false
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-05-12 23:22:04 -0400"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/insignia": {
     "criteria": {
       "has_the_recipe": "2025-05-09 00:19:27 -0400"
@@ -1431,6 +1484,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-05-09 00:12:38 -0400",
+      "minecraft:river": "2025-05-12 22:47:29 -0400",
       "minecraft:grove": "2025-05-09 00:13:28 -0400",
       "minecraft:forest": "2025-05-08 23:25:59 -0400",
       "minecraft:lush_caves": "2025-05-09 00:29:49 -0400",
@@ -1460,6 +1514,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-05-12 23:21:15 -0400"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-08 23:25:58 -0400"
@@ -1475,6 +1535,12 @@
   "enigmaticlegacy:recipes/generic/insignia": {
     "criteria": {
       "has_iron_ingot": "2025-05-09 00:19:27 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/extradimensional_eye": {
+    "criteria": {
+      "has_items": "2025-05-12 23:22:04 -0400"
     },
     "done": true
   },
@@ -1563,6 +1629,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-12 22:46:50 -0400"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2025-05-08 23:25:59 -0400"
@@ -1642,6 +1714,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-05-12 22:49:07 -0400"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-08 23:25:58 -0400"
@@ -1657,6 +1735,12 @@
   "enigmaticaddons:book/accessories/forger_gem": {
     "criteria": {
       "has_items": "2025-05-09 00:18:06 -0400"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-12 22:45:17 -0400"
     },
     "done": true
   },
@@ -1699,6 +1783,12 @@
   "apotheosis:affix/gem_cut": {
     "criteria": {
       "cut": "2025-05-10 00:14:33 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/extradimensional_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-05-12 23:22:04 -0400"
     },
     "done": true
   },

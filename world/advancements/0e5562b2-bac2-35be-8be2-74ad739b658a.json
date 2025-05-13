@@ -811,6 +811,12 @@
     },
     "done": true
   },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-05-12 23:48:52 -0400"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-03-09 00:53:20 -0300"
@@ -880,6 +886,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-05-12 23:48:48 -0400"
     },
     "done": true
   },
@@ -1328,6 +1340,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-12 23:56:42 -0400",
+      "minecraft:soul_sand_valley": "2025-05-12 23:48:52 -0400"
+    },
+    "done": false
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
     "criteria": {
       "requirement": "2025-03-24 00:51:18 -0300"
@@ -1415,6 +1434,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-03-09 16:51:15 -0300"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-12 23:48:52 -0400"
     },
     "done": true
   },
@@ -1523,6 +1548,12 @@
   "enigmaticaddons:book/misc/totem_of_malice": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-12 23:48:52 -0400"
     },
     "done": true
   },
@@ -1882,6 +1913,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-12 23:48:52 -0400"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/void_pearl": {
     "criteria": {
       "spellstone": "2025-05-08 22:21:21 -0400"
@@ -2149,6 +2186,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-12 23:49:57 -0400"
+    },
+    "done": true
+  },
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -2223,7 +2266,8 @@
   },
   "quark:get_all_corundum": {
     "criteria": {
-      "blue": "2025-05-03 00:46:58 -0400"
+      "blue": "2025-05-03 00:46:58 -0400",
+      "indigo": "2025-05-12 23:08:57 -0400"
     },
     "done": false
   },
@@ -2346,6 +2390,12 @@
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_cursed": {
+    "criteria": {
+      "iter_cursed": "2025-05-13 00:13:35 -0400"
     },
     "done": true
   },
@@ -2481,6 +2531,7 @@
       "byg:orchard": "2025-03-11 22:43:19 -0300",
       "byg:red_oak_forest": "2025-03-16 22:59:57 -0300",
       "byg:firecracker_shrubland": "2025-03-16 18:23:40 -0300",
+      "byg:embur_bog": "2025-05-12 23:49:55 -0400",
       "byg:araucaria_savanna": "2025-03-15 23:30:29 -0300",
       "byg:howling_peaks": "2025-03-15 00:12:00 -0300",
       "byg:baobab_savanna": "2025-03-23 21:30:00 -0300",
@@ -2539,12 +2590,6 @@
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-05-11 00:51:28 -0400"
-    },
-    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
