@@ -210,6 +210,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/etherium_gear": {
+    "criteria": {
+      "etherium_armor": "2025-05-21 01:06:55 -0400"
+    },
+    "done": true
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-03-09 01:18:16 -0300"
@@ -422,6 +428,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_leggings": {
+    "criteria": {
+      "has_recipe_result": "2025-05-21 01:06:54 -0400"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/escape_scroll": {
     "criteria": {
       "has_the_recipe": "2025-03-21 00:11:36 -0300"
@@ -603,8 +615,10 @@
       "minecraft:spider": "2025-03-12 01:09:55 -0300",
       "minecraft:piglin_brute": "2025-05-03 00:53:19 -0400",
       "minecraft:creeper": "2025-03-16 20:05:07 -0300",
+      "minecraft:zombified_piglin": "2025-05-20 23:59:53 -0400",
       "minecraft:wither_skeleton": "2025-05-03 01:23:51 -0400",
       "minecraft:cave_spider": "2025-03-16 19:43:16 -0300",
+      "minecraft:piglin": "2025-05-20 23:59:30 -0400",
       "minecraft:enderman": "2025-03-16 01:58:28 -0300",
       "minecraft:silverfish": "2025-03-16 19:16:44 -0300",
       "minecraft:stray": "2025-03-16 20:04:33 -0300",
@@ -642,6 +656,12 @@
   "vinery:cherry_floorboard": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/armor/etherium_armor": {
+    "criteria": {
+      "has_the_recipe2": "2025-05-21 01:06:54 -0400"
     },
     "done": true
   },
@@ -763,6 +783,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-05-20 23:40:30 -0400"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -820,6 +846,12 @@
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-05-20 23:40:30 -0400"
     },
     "done": true
   },
@@ -889,9 +921,21 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-05-20 23:34:38 -0400"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2025-05-12 23:48:48 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/mining_charm": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 23:07:09 -0400"
     },
     "done": true
   },
@@ -988,6 +1032,12 @@
   "simplyswords:the_watcher": {
     "criteria": {
       "requirement": "2025-03-24 00:26:20 -0300"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-05-21 00:21:31 -0400"
     },
     "done": true
   },
@@ -1419,9 +1469,21 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 23:40:30 -0400"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/etherium_boots": {
+    "criteria": {
+      "has_recipe_result": "2025-05-21 01:06:53 -0400"
     },
     "done": true
   },
@@ -1593,6 +1655,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_chestplate": {
+    "criteria": {
+      "has_recipe_result": "2025-05-21 01:06:54 -0400"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-03-09 00:53:20 -0300"
@@ -1632,9 +1700,10 @@
   },
   "enigmaticlegacy:recipes/generic/heaven_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-03-21 00:11:36 -0300"
+      "has_parent_recipe": "2025-03-21 00:11:36 -0300",
+      "has_items": "2025-05-20 23:40:30 -0400"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_pink_from_white": {
     "criteria": {
@@ -1651,6 +1720,12 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-03-09 01:11:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-20 23:39:22 -0400"
     },
     "done": true
   },
@@ -1907,6 +1982,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/mining_charm": {
+    "criteria": {
+      "has_items": "2025-05-20 23:07:09 -0400"
+    },
+    "done": true
+  },
   "vinery:white_grape_crate": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -1963,9 +2044,10 @@
   },
   "enigmaticlegacy:recipes/generic/fabulous_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-05-20 23:40:30 -0400",
       "has_items": "2025-03-16 22:22:17 -0300"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_lime_from_white": {
     "criteria": {
@@ -2591,6 +2673,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-05-21 00:35:37 -0400"
+    },
+    "done": false
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-03-09 00:53:20 -0300"
@@ -2663,6 +2751,12 @@
       "requirement": "2025-03-09 00:53:20 -0300"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-05-20 23:53:21 -0400"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/materials/ender_rod": {
     "criteria": {
@@ -2839,6 +2933,12 @@
   "majruszsaccessories:adventurer_kit": {
     "criteria": {
       "picked_up_accessory": "2025-03-09 16:45:19 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/etherium_helmet": {
+    "criteria": {
+      "has_recipe_result": "2025-05-21 01:06:55 -0400"
     },
     "done": true
   },

@@ -234,6 +234,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/etherium_gear": {
+    "criteria": {
+      "etherium_armor": "2025-05-20 22:45:05 -0400"
+    },
+    "done": true
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-03-08 23:54:33 -0300"
@@ -658,6 +664,7 @@
       "minecraft:spider": "2025-03-09 00:03:38 -0300",
       "minecraft:piglin_brute": "2025-03-16 22:55:50 -0300",
       "minecraft:creeper": "2025-03-09 00:57:40 -0300",
+      "minecraft:wither": "2025-05-20 23:40:11 -0400",
       "minecraft:evoker": "2025-03-09 17:21:32 -0300",
       "minecraft:slime": "2025-05-04 15:36:59 -0400",
       "minecraft:phantom": "2025-03-10 18:07:37 -0300",
@@ -666,6 +673,7 @@
       "minecraft:wither_skeleton": "2025-03-16 19:05:56 -0300",
       "minecraft:husk": "2025-03-09 17:16:56 -0300",
       "minecraft:cave_spider": "2025-03-16 13:33:53 -0300",
+      "quark:wraith": "2025-05-21 00:29:34 -0400",
       "minecraft:piglin": "2025-03-16 22:57:00 -0300",
       "minecraft:stray": "2025-03-09 01:43:48 -0300",
       "minecraft:enderman": "2025-03-16 14:42:55 -0300",
@@ -900,6 +908,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-05-20 23:40:30 -0400"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -971,6 +985,12 @@
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-03-08 23:08:30 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-05-20 23:40:30 -0400"
     },
     "done": true
   },
@@ -1916,6 +1936,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_items": "2025-05-20 23:40:30 -0400"
+    },
+    "done": false
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -1931,6 +1957,12 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-03-16 14:46:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-20 23:39:22 -0400"
     },
     "done": true
   },
@@ -2158,6 +2190,12 @@
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-04-04 23:55:09 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-05-21 00:26:14 -0400"
     },
     "done": true
   },
@@ -3102,6 +3140,12 @@
       "requirement": "2025-03-08 23:08:31 -0300"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-05-20 23:53:17 -0400"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/materials/ender_rod": {
     "criteria": {
