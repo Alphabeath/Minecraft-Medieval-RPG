@@ -2097,6 +2097,12 @@
     },
     "done": false
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-05-22 23:26:17 -0400"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-03-09 00:53:20 -0300"
@@ -2225,6 +2231,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-05-22 22:49:45 -0400"
+    },
+    "done": false
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-04-01 23:14:53 -0300"
@@ -2298,6 +2310,12 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-05-22 22:49:00 -0400"
+    },
+    "done": true
+  },
   "vinery:grass_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-09 00:53:20 -0300"
@@ -2350,6 +2368,14 @@
     "criteria": {
       "blue": "2025-05-03 00:46:58 -0400",
       "indigo": "2025-05-12 23:08:57 -0400"
+    },
+    "done": false
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "aether:skyroot_grove": "2025-05-22 22:50:39 -0400",
+      "aether:skyroot_forest": "2025-05-22 22:49:20 -0400",
+      "deep_aether:aerlavender_fields": "2025-05-22 22:49:01 -0400"
     },
     "done": false
   },
@@ -2673,12 +2699,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-05-21 00:35:37 -0400"
-    },
-    "done": false
-  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-03-09 00:53:20 -0300"
@@ -2864,6 +2884,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-22 22:49:45 -0400"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "rogue_eye": "2025-03-09 00:57:49 -0300"
@@ -2945,6 +2971,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-03-09 00:53:20 -0300"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-05-22 22:49:00 -0400"
     },
     "done": true
   },

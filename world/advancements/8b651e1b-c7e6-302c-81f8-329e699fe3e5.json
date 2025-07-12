@@ -371,6 +371,12 @@
     },
     "done": false
   },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-05-22 22:59:17 -0400"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -403,9 +409,10 @@
   },
   "enigmaticlegacy:recipes/generic/redstonelamps": {
     "criteria": {
+      "has_parent_recipe": "2025-05-22 22:37:56 -0400",
       "has_core_block": "2025-04-21 16:40:31 -0400"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
@@ -1302,6 +1309,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/decorations/redstone_lantern": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:37:56 -0400"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-03-14 23:21:55 -0300"
@@ -2015,6 +2028,7 @@
       "apple": "2025-03-28 16:42:45 -0300",
       "bread": "2025-03-08 23:17:29 -0300",
       "golden_apple": "2025-03-12 00:25:28 -0300",
+      "melon_slice": "2025-05-22 22:38:24 -0400",
       "golden_carrot": "2025-03-28 16:52:36 -0300",
       "beetroot": "2025-05-03 15:12:39 -0400",
       "enchanted_golden_apple": "2025-03-21 00:32:34 -0300",
@@ -2381,6 +2395,12 @@
     },
     "done": false
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-05-22 23:28:17 -0400"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-03-08 23:08:30 -0300"
@@ -2611,6 +2631,12 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-05-22 22:52:11 -0400"
+    },
+    "done": true
+  },
   "vinery:grass_slab": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -2653,6 +2679,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2025-05-22 22:37:56 -0400"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-03-08 23:08:31 -0300"
@@ -2669,6 +2701,14 @@
     "criteria": {
       "red": "2025-05-03 00:48:58 -0400",
       "indigo": "2025-05-12 22:40:07 -0400"
+    },
+    "done": false
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "aether:skyroot_grove": "2025-05-22 22:52:32 -0400",
+      "aether:skyroot_forest": "2025-05-22 22:52:15 -0400",
+      "deep_aether:aerlavender_fields": "2025-05-22 22:52:11 -0400"
     },
     "done": false
   },
@@ -2936,6 +2976,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:37:56 -0400"
+    },
+    "done": true
+  },
   "simplyswords:soulpyre": {
     "criteria": {
       "requirement": "2025-03-24 00:10:11 -0300"
@@ -2951,6 +2997,12 @@
   "immersive_paintings:misc/glow_painting": {
     "criteria": {
       "has_item": "2025-03-16 20:05:32 -0300"
+    },
+    "done": true
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2025-05-22 22:53:42 -0400"
     },
     "done": true
   },
@@ -3064,6 +3116,12 @@
       "enchanted_item": "2025-03-23 23:51:52 -0300"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-07-12 16:42:03 -0400"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
@@ -3187,6 +3245,12 @@
   "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
     "criteria": {
       "has_items": "2025-05-02 23:49:11 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2025-05-22 22:37:56 -0400"
     },
     "done": true
   },
@@ -3376,6 +3440,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-03-08 23:08:31 -0300"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-05-22 22:52:11 -0400"
     },
     "done": true
   },
