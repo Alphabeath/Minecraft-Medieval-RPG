@@ -445,7 +445,6 @@ fi
 checkJavaBitness
 minecraft
 eula
-setup_playit
 
 echo ""
 echo "Starting server..."
@@ -484,5 +483,5 @@ echo "Enviando los cambios al repositorio remoto..."
 git push
 
 read -n 1 -s -r -p "Press any key to continue"
-trap 'kill $(cat playit.pid) 2>/dev/null' EXIT
+#trap 'kill $(cat playit.pid) 2>/dev/null' EXIT
 exit 0
