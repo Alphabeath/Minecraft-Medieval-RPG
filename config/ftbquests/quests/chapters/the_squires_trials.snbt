@@ -4,6 +4,18 @@
 	filename: "the_squires_trials"
 	group: "3B0CDB8395E59365"
 	id: "744084D7C7EA8A6C"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 10.0d
+		hover: [ ]
+		image: "kubejs:textures/fallenpose1.png"
+		rotation: 0.0d
+		width: 12.0d
+		x: 3.5d
+		y: 0.0d
+	}]
 	order_index: 1
 	quest_links: [ ]
 	quests: [

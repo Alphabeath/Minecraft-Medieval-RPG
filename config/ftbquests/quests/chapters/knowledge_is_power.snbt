@@ -194,7 +194,7 @@
 				""
 				"&5Trial 3&f : Begins upon slaying &dthe ender dragon &fwhere enemies are even more merciless granting the chance of elite enemies appearing."
 			]
-			icon: "cisco_mod:the_dark_one"
+			icon: "cisco_mod:thedarkone"
 			id: "095A01C3F8830264"
 			rewards: [{
 				id: "099F731731B139EB"

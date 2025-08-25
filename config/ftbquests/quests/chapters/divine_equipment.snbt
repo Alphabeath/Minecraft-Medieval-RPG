@@ -16,6 +16,18 @@
 		}
 	}
 	id: "08FFA9A856E66C0A"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 10.0d
+		hover: [ ]
+		image: "kubejs:textures/fellkingpose1.png"
+		rotation: 0.0d
+		width: 12.0d
+		x: -11.0d
+		y: -0.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

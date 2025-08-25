@@ -117,13 +117,13 @@
             {
                 "type": "stack",
                 "stack": {
-                    "item": "cisco_mod:champion_coin"
+                    "item": "cisco_mod:championlootbag"
                 }
             },
             {
                 "type": "stack",
                 "stack": {
-                    "item": "cisco_mod:champion_coin"
+                    "item": "cisco_mod:championlootbag"
                 }
             },
 	{

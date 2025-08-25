@@ -108,7 +108,7 @@
 			subtitle: "Exchange"
 			tasks: [{
 				consume_items: true
-				count: 5L
+				count: 20L
 				id: "5A927B32374CC799"
 				item: "cisco_mod:champion_coin"
 				type: "item"
@@ -709,7 +709,7 @@
 		}
 		{
 			can_repeat: true
-			description: ["Reduces world level by 25 . Requires the quest ascendant difficulty to be completed."]
+			description: ["Reduces world level by 50 . Requires the quest ascendant difficulty to be completed."]
 			icon: "minecraft:clock"
 			id: "4057862FA8DB2C5E"
 			rewards: [{
@@ -1008,6 +1008,50 @@
 			}]
 			title: "Perfect Dark One Gem"
 			x: -4.5d
+			y: -27.0d
+		}
+		{
+			can_repeat: true
+			icon: "cisco_mod:temporal_core"
+			id: "6E49B2FCB0D80D6B"
+			rewards: [{
+				id: "7123AF8E528DD3D7"
+				item: "cisco_mod:temporal_core"
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "Equivalent Exchange"
+			tasks: [{
+				consume_items: true
+				count: 10000L
+				id: "568CE4F7D2DCCFD5"
+				item: "cisco_mod:champion_coin"
+				type: "item"
+			}]
+			title: "Temporal Core"
+			x: -9.0d
+			y: -27.0d
+		}
+		{
+			can_repeat: true
+			icon: "cisco_mod:talisman_of_betrayal"
+			id: "533F55220DBA3F49"
+			rewards: [{
+				id: "2311F4B27F89DEC0"
+				item: "cisco_mod:talisman_of_betrayal"
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "Equivalent Exchange"
+			tasks: [{
+				consume_items: true
+				count: 20L
+				id: "435A99F62F81D603"
+				item: "cisco_mod:champion_coin"
+				type: "item"
+			}]
+			title: "Talisman of Betrayal"
+			x: 0.0d
 			y: -27.0d
 		}
 	]

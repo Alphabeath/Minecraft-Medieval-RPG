@@ -925,10 +925,7 @@
 				""
 				" "
 			]
-			hide: true
-			hide_details_until_startable: true
 			id: "1CD063D46825CB77"
-			invisible: true
 			rewards: [{
 				count: 6
 				id: "5772D0D61840A6C3"
@@ -941,7 +938,7 @@
 				id: "5F051DEEDE3EE01E"
 				item: {
 					Count: 1b
-					id: "cisco_mod:absolute_equillibrium"
+					id: "cisco_mod:frostfang"
 					tag: {
 						Damage: 0
 						affix_data: {
@@ -955,6 +952,87 @@
 			}]
 			x: -3.0d
 			y: -22.5d
+		}
+		{
+			dependencies: ["2D7E8A4D16EFB349"]
+			description: [
+				"&4Bjorn &femerged from &0the fallen realm &fa fractured shell of his former self. Despite &4his &fnew found &cpower &fwhatever that was left of his mind seemed to be locked in a pernicious grip by an unholy entity."
+				""
+				"He emerged from the portal wielding &6Hellbrand&f, a peculilar weapon seemingly a conduit for &0the dark &fpresense. It whispered to him tales of glorious destruction whilst remaining ever vigilant for those who would seek to betray, the newly crowned &4Fell King."
+			]
+			id: "0E265B63DD8AF9A9"
+			rewards: [{
+				count: 6
+				id: "5259C920F7C857A8"
+				item: "cisco_mod:champion_coin"
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "Infernal Demon's Wrath"
+			tasks: [{
+				id: "71D1803D45F3B322"
+				item: {
+					Count: 1b
+					id: "cisco_mod:hellbrand"
+					tag: {
+						Damage: 0
+						affix_data: {
+							affixes: {
+								"apotheosis:socket": 0.0f
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -12.0d
+			y: -22.5d
+		}
+		{
+			description: [
+				"Centuries after the death of &6Cisco &fwe would see the rise of &2Alexander &fhis descendant, &2the verdant ascendant &fand heir to unified bloodlines of &elight &fand &4fell."
+				""
+				"He possesed and unmathced command over time and gravity and would go on to unify the known kingdoms  into a singular empire later being crowned &athe sovereign ascendant."
+			]
+			icon: {
+				Count: 1b
+				id: "cisco_mod:sovereign_ascendant_helmet"
+				tag: {
+					Damage: 0
+					affix_data: {
+						affixes: {
+							"apotheosis:socket": 0.0f
+						}
+					}
+				}
+			}
+			id: "73F72E1154910A0E"
+			rewards: [{
+				count: 6
+				id: "2660ABB50ED9ED93"
+				item: "cisco_mod:champion_coin"
+				type: "item"
+			}]
+			size: 3.0d
+			subtitle: "Ascendant Verdant"
+			tasks: [{
+				id: "50DD04D67905A075"
+				item: {
+					Count: 1b
+					id: "cisco_mod:sovereign_ascendant_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							affixes: {
+								"apotheosis:socket": 0.0f
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -16.5d
 		}
 	]
 	title: "{\"text\":\"Divine Equipment\",\"color\":\"#DEA812\"}"

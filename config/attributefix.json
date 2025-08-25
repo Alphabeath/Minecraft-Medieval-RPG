@@ -1694,17 +1694,6 @@
         "value": 100
       }
     },
-    "apotheosis:armor_pierce": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
-      }
-    },
     "cataclysm_spellbooks:abyssal_spell_power": {
       "enabled": true,
       "min": {
@@ -1714,6 +1703,17 @@
       "max": {
         "default": 5000,
         "value": 5000
+      }
+    },
+    "apotheosis:armor_pierce": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
       }
     },
     "apotheosis:prot_shred": {
