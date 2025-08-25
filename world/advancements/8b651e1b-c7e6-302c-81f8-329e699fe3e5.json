@@ -2525,6 +2525,12 @@
     },
     "done": true
   },
+  "cisco_mod:ancient_craftmanship": {
+    "criteria": {
+      "ancient_craftmanship": "2025-08-25 18:25:01 -0400"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-05-03 01:34:18 -0400"
