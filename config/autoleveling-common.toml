@@ -13,7 +13,7 @@
 [default_leveling_settings]
 	starting_level = 1
 	max_level = 0
-	levels_per_distance = 0.012
+	levels_per_distance = 0.02
 	levels_per_deepness = 0.01
 	random_level_bonus = 0
 	levels_per_day = 0.0
