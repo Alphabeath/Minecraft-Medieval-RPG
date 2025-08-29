@@ -348,6 +348,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-08-28 15:41:39 -0400"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-04-01 22:19:35 -0300"
@@ -973,6 +979,12 @@
   "apotheosis:enchanting/hellshelf": {
     "criteria": {
       "hellshelf": "2025-03-23 23:57:52 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-08-28 15:41:39 -0400"
     },
     "done": true
   },
@@ -3219,12 +3231,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-08-28 15:29:21 -0400"
-    },
-    "done": false
-  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-03-08 23:08:30 -0300"
@@ -3329,6 +3335,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-03-08 23:08:30 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-08-28 15:41:39 -0400"
     },
     "done": true
   },
